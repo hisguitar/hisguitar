@@ -10,7 +10,9 @@ Studying at Bangkok University and passionate about MMORPGs, I aspire to create 
 *   ✉️  You can contact me at [wachsirin.sara@gmail.com](mailto:wachsirin.sara@gmail.com)
 *   🚀  I'm currently working on [Itch.io](http://hisguitar.itch.io/)
 *   🧠  I'm learning Unity, C#, UI Design, 3D-Modeling
-*   🤝  I'm open to collaborating on MMORPGs games### Skills 
+*   🤝  I'm open to collaborating on MMORPGs games
+*
+*   Skills 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
