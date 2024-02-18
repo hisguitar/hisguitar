@@ -1,9 +1,7 @@
 # Hi there! 👋 I'm Wachsirin Sarayutpisai (Guitar)
-
 ## Indie Game Developer | Unity | C# 
 
 Welcome to my profile! I'm a passionate indie game developer currently studying at Bangkok University. My dream is to create immersive MMORPGs where players can find their second home.
-
 * 🌍 Based in Thailand
 * ✉️ Contact me at [wachsirin.sara@gmail.com](mailto:wachsirin.sara@gmail.com)
 * 🚀 Currently showcasing my work on [Itch.io](https://hisguitar.itch.io/)
@@ -25,24 +23,33 @@ Welcome to my profile! I'm a passionate indie game developer currently studying 
 </p>
 
 ## My Games
-To play my first game ***'Willow The Little Witch'***, simply [download it from Itch.io](https://hisguitar.itch.io/willow) and unzip the files or play it directly on the website.  
+### :pushpin: Willow The Little Witch | 2D Action Platform game
+To play my first game ****'Willow The Little Witch'****, simply [download it from Itch.io](https://hisguitar.itch.io/willow) and unzip the files or play it directly on the website.  
 (Downloading is recommended for the best gaming experience.)
 <p align="left">
-  <a href="https://hisguitar.itch.io/willow" target="_blank" rel="noreferrer">
-    <img src="Willow_Cover.png" width="430" height="300" alt="Willow The Little Witch" />
-  </a>
+  <kbd>
+    <a href="https://hisguitar.itch.io/willow" target="_blank" rel="noreferrer">
+      <img src="Willow_Cover.png" width="430" height="300" alt="Willow The Little Witch" />
+    </a>
+  </kbd>
 </p>
 
-To play my second game ***'Portal Strike'***, simply [download it from Itch.io](https://hisguitar.itch.io/portal-strike) and unzip the files.
+### :pushpin: Portal Strike | 3D Roguelike, Run & Gun game 
+To play my second game ****'Portal Strike'****, simply [download it from Itch.io](https://hisguitar.itch.io/portal-strike) and unzip the files.
 <p align="left">
-  <a href="https://hisguitar.itch.io/portal-strike" target="_blank" rel="noreferrer">
-    <img src="PortalStrike_Cover.png" width="430" height="300" alt="Portal Strike" />
-  </a>
+  <kbd>
+    <a href="https://hisguitar.itch.io/portal-strike" target="_blank" rel="noreferrer">
+      <img src="PortalStrike_Cover.png" width="430" height="300" alt="Portal Strike" />
+    </a>
+  </kbd>
 </p>
 
-To play my third game ***'Silly Battle'***, simply [download it from Itch.io](https://qiqitaro.itch.io/silly-battle) and unzip the files or play it directly on the website.
+### :pushpin: Silly Battle | 2D Action Versus, Local co-op game
+To play my third game ****'Silly Battle'****, simply [download it from Itch.io](https://qiqitaro.itch.io/silly-battle) and unzip the files or play it directly on the website.
 <p align="left">
-  <a href="https://qiqitaro.itch.io/silly-battle" target="_blank" rel="noreferrer">
-    <img src="SillyBattle_Cover.png" width="430" height="300" alt="Silly Battle" />
-  </a>
+  <kbd>
+    <a href="https://qiqitaro.itch.io/silly-battle" target="_blank" rel="noreferrer">
+      <img src="SillyBattle_Cover.png" width="430" height="300" alt="Silly Battle" />
+    </a>
+  </kbd>
 </p>
