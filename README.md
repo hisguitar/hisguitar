@@ -28,3 +28,6 @@ Studying at Bangkok University and passionate about MMORPGs, I aspire to create 
 
 ## My games
 To play my Awesome Game 'Willow The Little Witch', simply [download it from Itch.io](https://example.itch.io/my-awesome-game) and unzip the files or playing on website. (Recommended download for maximum game performance.)
+<p align="left">
+  <a href="https://hisguitar.itch.io/willow" target="_blank" rel="noreferrer"><img src="Willow_Cover.png" width="36" height="36" alt="My Awesome Game" /></a>
+</p>
