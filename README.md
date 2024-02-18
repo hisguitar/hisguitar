@@ -12,7 +12,7 @@ Studying at Bangkok University and passionate about MMORPGs, I aspire to create 
 *   🧠  I'm learning Unity, C#, UI Design, 3D-Modeling
 *   🤝  I'm open to collaborating on MMORPGs games
 
-Skills 
+##Skills 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -25,3 +25,6 @@ Skills
   <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
+
+## My games
+To play my Awesome Game 'Willow The Little Witch', simply [download it from Itch.io](https://example.itch.io/my-awesome-game) and unzip the files or playing on website. (Recommended download for maximum game performance.)
