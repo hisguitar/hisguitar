@@ -1,33 +1,48 @@
-Hi 👋 My name is Wachsirin Sarayutpisai (Guitar)
-================================================
+# Hi there! 👋 I'm Wachsirin Sarayutpisai (Guitar)
 
-Indie game developer, Unity, C#
--------------------------------
+## Indie Game Developer | Unity | C# 
 
-Studying at Bangkok University and passionate about MMORPGs, I aspire to create a world where everyone can feel at home.
+Welcome to my profile! I'm a passionate indie game developer currently studying at Bangkok University. My dream is to create immersive MMORPGs where players can find their second home.
 
-*   🌍  I'm based in Thailand
-*   ✉️  You can contact me at [wachsirin.sara@gmail.com](mailto:wachsirin.sara@gmail.com)
-*   🚀  I'm currently working on [Itch.io](http://hisguitar.itch.io/)
-*   🧠  I'm learning Unity, C#, UI Design, 3D-Modeling
-*   🤝  I'm open to collaborating on MMORPGs games
+* 🌍 Based in Thailand
+* ✉️ Contact me at [wachsirin.sara@gmail.com](mailto:wachsirin.sara@gmail.com)
+* 🚀 Currently showcasing my work on [Itch.io](https://hisguitar.itch.io/)
+* 🧠 Constantly honing my skills in Unity, C#, UI Design, and 3D Modeling
+* 🤝 Open to collaborations on MMORPG projects
 
 ## Skills 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
 </p>
 
-## My games
-To play my Awesome Game 'Willow The Little Witch', simply [download it from Itch.io](https://example.itch.io/my-awesome-game) and unzip the files or playing on website. (Recommended download for maximum game performance.)
+## My Games
+To play my first game ***'Willow The Little Witch'***, simply [download it from Itch.io](https://hisguitar.itch.io/willow) and unzip the files or play it directly on the website.  
+(Downloading is recommended for the best gaming experience.)
 <p align="left">
-  <a href="https://hisguitar.itch.io/willow" target="_blank" rel="noreferrer"><img src="Willow_Cover.png" width="36" height="36" alt="My Awesome Game" /></a>
+  <a href="https://hisguitar.itch.io/willow" target="_blank" rel="noreferrer">
+    <img src="Willow_Cover.png" width="430" height="300" alt="Willow The Little Witch" />
+  </a>
+</p>
+
+To play my second game ***'Portal Strike'***, simply [download it from Itch.io](https://hisguitar.itch.io/portal-strike) and unzip the files.
+<p align="left">
+  <a href="https://hisguitar.itch.io/portal-strike" target="_blank" rel="noreferrer">
+    <img src="PortalStrike_Cover.png" width="430" height="300" alt="Portal Strike" />
+  </a>
+</p>
+
+To play my third game ***'Silly Battle'***, simply [download it from Itch.io](https://qiqitaro.itch.io/silly-battle) and unzip the files or play it directly on the website.
+<p align="left">
+  <a href="https://qiqitaro.itch.io/silly-battle" target="_blank" rel="noreferrer">
+    <img src="SillyBattle_Cover.png" width="430" height="300" alt="Silly Battle" />
+  </a>
 </p>
