@@ -49,7 +49,7 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 </p>
 
 ### :pushpin: Silly Battle
-* This game was created at GGJ2024 (Site Rangsit) with two teammates [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss) under the theme “Make me laugh”.
+* This game was created at [GGJ2024 (Site Rangsit)](https://globalgamejam.org/jam-sites/2024/rangsit-university) with two teammates [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss) under the theme “Make me laugh”.
 * It is a 2D action versus, local co-op game filled with humor and fun.
 * You can [download it from Itch.io](https://qiqitaro.itch.io/silly-battle) and unzip the files or play it directly on the website.
 <p align="left">
