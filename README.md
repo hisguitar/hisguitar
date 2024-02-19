@@ -10,16 +10,16 @@ Welcome to my profile! I'm a passionate indie game developer currently studying 
 
 ## Skills 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="24" height="24" alt="C#" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="24" height="24" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="24" height="24" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="24" height="24" alt="Photoshop" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="24" height="24" alt="Illustrator" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="24" height="24" alt="After Effects" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="24" height="24" alt="Premiere Pro" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="24" height="24" alt="Figma" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="24" height="24" alt="Filebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="24" height="24" alt="Google Cloud" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30" alt="C#" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" alt="Git" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="30" height="30" alt="Illustrator" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="30" height="30" alt="After Effects" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="30" height="30" alt="Premiere Pro" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="30" height="30" alt="Filebase" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="30" height="30" alt="Google Cloud" />
 </p>
 
 ## My Games
