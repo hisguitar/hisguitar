@@ -14,6 +14,8 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 * Intermediate in Adobe Illustrator
 * Intermediate in Adobe After Effects
 * Intermediate in C#
+* Intermediate in Unity
+* Intermediate in Maya
 * Intermediate in Firebase
 * Intermediate in Figma
 <p align="left">
@@ -22,6 +24,8 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="30" height="30" alt="Illustrator" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="30" height="30" alt="After Effects" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30" alt="C#" />
+  <img src="Unity_Icon.png" width="30" height="30" alt="Unity" />
+  <img src="Maya_Icon.png" width="30" height="30" alt="Maya" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" />
 </p>
