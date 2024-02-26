@@ -8,24 +8,30 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 * 🧠 Constantly honing my skills in Unity, C#, UI Design, and 3D Modeling
 * 🤝 Open to collaborations on MMORPG projects
 
-## Skills 
+### Skills
+* Proficient in Adobe Photoshop
+* Proficient in Adobe Premiere Pro
+* Intermediate in Adobe Illustrator
+* Intermediate in Adobe After Effects
+* Intermediate in C#
+* Intermediate in Firebase
+* Intermediate in Figma
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30" alt="C#" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="30" height="30" alt="Premiere Pro" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="30" height="30" alt="Illustrator" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="30" height="30" alt="After Effects" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="30" height="30" alt="Premiere Pro" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30" alt="C#" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="30" height="30" alt="Filebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="30" height="30" alt="Google Cloud" />
 </p>
 
-## My Games
-### :pushpin: Willow The Little Witch
+
+# MY GAMES
+### 🧙‍♂️ [WILLOW THE LITTLE WITCH](https://hisguitar.itch.io/willow)
+* 2D Side-scrolling action game.
+* Highlight of work is **Clever Enemy, Lighting Setup, Sound Manager System, Scene Manager System**
 * This is my first game developed using C# and Unity Engine.
-* It is a 2D action platform game set in a modern era where players take on the role of a young witch named 'Willow' who finds herself warped into an unfamiliar location and must find her way back home.
 * You can [download it from Itch.io](https://hisguitar.itch.io/willow) and unzip the files or play it directly on the website.  
   (Downloading is recommended for the best gaming experience.)
 <p align="left">
@@ -36,9 +42,10 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
   </kbd>
 </p>
 
-### :pushpin: Portal Strike
+### 🌟 [PORTAL STRIKE](https://hisguitar.itch.io/portal-strike)
+* 3D rogue-like, run & gun game.
+* Highlight of work is **Ability Selection Cards, Random Card, Portal Skills, RPG Stats & Stats Upgrade, Procedural Map Generation**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
-* It is a 3D roguelike, run & gun game where players navigate through portals to defeat enemies and survive.
 * You can [download it from Itch.io](https://hisguitar.itch.io/portal-strike) and unzip the files.
 <p align="left">
   <kbd>
@@ -48,9 +55,12 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
   </kbd>
 </p>
 
-### :pushpin: Silly Battle
-* This game was created at [GGJ2024 (Site Rangsit)](https://globalgamejam.org/jam-sites/2024/rangsit-university) with two teammates [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss) under the theme “Make me laugh”.
-* It is a 2D action versus, local co-op game filled with humor and fun.
+### ⚔ [SILLY BATTLE](https://qiqitaro.itch.io/silly-battle)
+* 2D action versus, local co-op game.
+* Highlight of work is **Slot Machine, Random Items, Local co-op, Faction changing system**
+* This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
+* This game was created by DUCK 4U group at [GGJ2024 (Site Rangsit)](https://globalgamejam.org/jam-sites/2024/rangsit-university) under the theme “Make me laugh”.
+* [Our game ranked](https://web.facebook.com/ThaiGameJam/videos/393072943374390/) second with 16 votes.
 * You can [download it from Itch.io](https://qiqitaro.itch.io/silly-battle) and unzip the files or play it directly on the website.
 <p align="left">
   <kbd>
