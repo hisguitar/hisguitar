@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Guitar
-## Indie Game Developer | Unity | C# 
+### Indie Game Developer | Unity | C# 
 
 Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a passionate indie game developer currently studying at Bangkok University. My dream is to create immersive MMORPGs where players can find their second home.
 * 🌍 Based in Thailand
