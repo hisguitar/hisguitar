@@ -8,7 +8,17 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 * 🧠 Constantly honing my skills in Unity, C#, UI Design, and 3D Modeling
 * 🤝 Open to collaborations on MMORPG projects
 
-### Skills
+### Education
+Bangkok University | August 2021 - February 2024  
+School of Information Technology and Innovation  
+Games and Interactive Media  
+Cum GPA: 3.65
+
+Hatyairatprachasun School | May 2018 - April 2021  
+English and Math  
+Cum GPA: 3.11
+
+### Hard Skills
 * Proficient in Adobe Photoshop
 * Proficient in Adobe Premiere Pro
 * Intermediate in Adobe Illustrator
@@ -33,7 +43,6 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" />
 </p>
-
 
 # MY GAMES
 ### 🧙‍♂️ [WILLOW THE LITTLE WITCH](https://hisguitar.itch.io/willow) (Solo Dev)
