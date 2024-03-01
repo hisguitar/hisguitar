@@ -15,7 +15,9 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 * Intermediate in Adobe After Effects
 * Intermediate in C#
 * Intermediate in Unity
+* Intermediate in GitHub
 * Intermediate in Maya
+* Intermediate in Substance Painter
 * Intermediate in Firebase
 * Intermediate in Figma
 <p align="left">
@@ -59,15 +61,15 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
   </kbd>
 </p>
 
-### ⚔ [FOREST QUEST](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
+### 🎃 [FOREST QUEST](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
 * 3D VR horror single-player game.
 * Highlight of work is **Implementation of triggered dialogs based on different locations, Activation of ghost events, Implementation of various behavioral patterns for triggered ghosts**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
 * Gameplay videos can be [viewed on YouTube](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc).
 <p align="left">
   <kbd>
-    <a href="https://qiqitaro.itch.io/silly-battle" target="_blank" rel="noreferrer">
-      <img src="ForestQuest_Cover.jpg" width="500" height="300" alt="Silly Battle" />
+    <a href="https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc" target="_blank" rel="noreferrer">
+      <img src="ForestQuest_Cover.jpg" width="500" height="300" alt="Forest Quest" />
     </a>
   </kbd>
 </p>
