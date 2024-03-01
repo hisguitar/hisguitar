@@ -15,7 +15,9 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 * Intermediate in Adobe After Effects
 * Intermediate in C#
 * Intermediate in Unity
+* Intermediate in GitHub
 * Intermediate in Maya
+* Intermediate in Substance Painter
 * Intermediate in Firebase
 * Intermediate in Figma
 <p align="left">
