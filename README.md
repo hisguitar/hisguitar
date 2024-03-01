@@ -30,19 +30,14 @@ Cum GPA: 3.11
 * Intermediate in Substance Painter
 * Intermediate in Firebase
 * Intermediate in Figma
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="30" height="30" alt="Premiere Pro" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="30" height="30" alt="Illustrator" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="30" height="30" alt="After Effects" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30" alt="C#" />
-  <img src="Unity_Icon.png" width="30" height="30" alt="Unity" />
-  <img src="GitHub_Icon.png" width="30" height="30" alt="GitHub" />
-  <img src="Maya_Icon.png" width="30" height="30" alt="Maya" />
-  <img src="SubstancePainter_Icon.png" width="30" height="30" alt="Substance Painter" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" />
-</p>
+
+### Soft Skills
+* Teamwork
+* Learning and Adaptability
+* Critical Thinking
+* Time Management
+* Personal Success
+* Presentation
 
 # MY GAMES
 ### 🧙‍♂️ [WILLOW THE LITTLE WITCH](https://hisguitar.itch.io/willow) (Solo Dev)
