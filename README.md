@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Guitar
-### Indie Game Developer | Unity | C# 
+### INDIE GAME DEVELOPER | UNITY | C# 
 
 Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a passionate indie game developer currently studying at Bangkok University. My dream is to create immersive MMORPGs where players can find their second home.
 * 🌍 Based in Thailand
@@ -8,17 +8,17 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 * 🧠 Constantly honing my skills in Unity, C#, UI Design, and 3D Modeling
 * 🤝 Open to collaborations on MMORPG projects
 
-### Education
-Bangkok University | August 2021 - February 2024  
+### EDUCATION
+**Bangkok University | August 2021 - February 2024**  
 School of Information Technology and Innovation  
 Games and Interactive Media  
 Cum GPA: 3.65
 
-Hatyairatprachasun School | May 2018 - April 2021  
+**Hatyairatprachasun School | May 2018 - April 2021**  
 English and Math  
 Cum GPA: 3.11
 
-### Hard Skills
+### HARD SKILLS
 * Proficient in Adobe Photoshop
 * Proficient in Adobe Premiere Pro
 * Intermediate in Adobe Illustrator
@@ -31,7 +31,7 @@ Cum GPA: 3.11
 * Intermediate in Firebase
 * Intermediate in Figma
 
-### Soft Skills
+### SOFT SKILLS
 * Teamwork
 * Learning and Adaptability
 * Critical Thinking
