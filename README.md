@@ -85,7 +85,7 @@ Cum GPA: 3.11
 * Highlight of work is **Slot Machine, Random Items, Local co-op, Faction changing system**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
 * This game was created by DUCK 4U group at [GGJ2024 (Site Rangsit)](https://globalgamejam.org/jam-sites/2024/rangsit-university) under the theme “Make me laugh”.
-* [Our game ranked](https://web.facebook.com/ThaiGameJam/videos/393072943374390/) second with 16 votes.
+* [Our game ranked](https://web.facebook.com/ThaiGameJam/videos/393072943374390/) 2nd with 16 votes.
 * You can [download it from Itch.io](https://qiqitaro.itch.io/silly-battle) and unzip the files or play it directly on the website.
 <p align="left">
   <kbd>
