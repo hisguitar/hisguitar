@@ -39,8 +39,7 @@ Cum GPA: 3.11
 * Personal Success
 * Presentation
 
-# MY GAMES
-### 🧙‍♂️ [WILLOW THE LITTLE WITCH](https://hisguitar.itch.io/willow) (Solo Dev)
+## 🧙‍♂️ [WILLOW THE LITTLE WITCH](https://hisguitar.itch.io/willow) (Solo Dev)
 * 2D Side-scrolling action game.
 * Highlight of work is **Clever Enemy, Lighting Setup, Sound Manager System, Scene Manager System**
 * This is my first game developed using C# and Unity Engine.
@@ -54,7 +53,7 @@ Cum GPA: 3.11
   </kbd>
 </p>
 
-### 🌟 [PORTAL STRIKE](https://hisguitar.itch.io/portal-strike) (Mobile Game)
+## 🌟 [PORTAL STRIKE](https://hisguitar.itch.io/portal-strike) (Mobile Game)
 * 3D rogue-like, run & gun game.
 * Highlight of work is **Ability Selection Cards, Random Card, Portal Skills, RPG Stats & Stats Upgrade, Procedural Map Generation**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
@@ -67,7 +66,7 @@ Cum GPA: 3.11
   </kbd>
 </p>
 
-### 🎃 [FOREST QUEST](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
+## 🎃 [FOREST QUEST](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
 * 3D VR horror single-player game.
 * Highlight of work is **Implementation of triggered dialogs based on different locations, Activation of ghost events, Implementation of various behavioral patterns for triggered ghosts**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
@@ -80,7 +79,7 @@ Cum GPA: 3.11
   </kbd>
 </p>
 
-### ⚔ [SILLY BATTLE](https://qiqitaro.itch.io/silly-battle) (Global Game Jam 2024)
+## ⚔ [SILLY BATTLE](https://qiqitaro.itch.io/silly-battle) (Global Game Jam 2024)
 * 2D action versus, local co-op game.
 * Highlight of work is **Slot Machine, Random Items, Local co-op, Faction changing system**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
