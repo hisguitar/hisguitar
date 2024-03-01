@@ -68,8 +68,8 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 * Gameplay videos can be [viewed on YouTube](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc).
 <p align="left">
   <kbd>
-    <a href="https://qiqitaro.itch.io/silly-battle" target="_blank" rel="noreferrer">
-      <img src="ForestQuest_Cover.jpg" width="500" height="300" alt="Silly Battle" />
+    <a href="https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc" target="_blank" rel="noreferrer">
+      <img src="ForestQuest_Cover.jpg" width="500" height="300" alt="Forest Quest" />
     </a>
   </kbd>
 </p>
