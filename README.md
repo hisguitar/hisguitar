@@ -61,7 +61,7 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
   </kbd>
 </p>
 
-### ⚔ [FOREST QUEST](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
+### 🎃 [FOREST QUEST](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
 * 3D VR horror single-player game.
 * Highlight of work is **Implementation of triggered dialogs based on different locations, Activation of ghost events, Implementation of various behavioral patterns for triggered ghosts**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
