@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Guitar
-### Indie Game Developer | Unity | C# 
+### INDIE GAME DEVELOPER | UNITY | C# 
 
 Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a passionate indie game developer currently studying at Bangkok University. My dream is to create immersive MMORPGs where players can find their second home.
 * 🌍 Based in Thailand
@@ -8,7 +8,17 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 * 🧠 Constantly honing my skills in Unity, C#, UI Design, and 3D Modeling
 * 🤝 Open to collaborations on MMORPG projects
 
-### Skills
+### EDUCATION
+**Bangkok University | August 2021 - February 2024**  
+School of Information Technology and Innovation  
+Games and Interactive Media  
+Cum GPA: 3.65
+
+**Hatyairatprachasun School | May 2018 - April 2021**  
+English and Math  
+Cum GPA: 3.11
+
+### HARD SKILLS
 * Proficient in Adobe Photoshop
 * Proficient in Adobe Premiere Pro
 * Intermediate in Adobe Illustrator
@@ -20,18 +30,14 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 * Intermediate in Substance Painter
 * Intermediate in Firebase
 * Intermediate in Figma
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="30" height="30" alt="Premiere Pro" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="30" height="30" alt="Illustrator" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="30" height="30" alt="After Effects" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30" alt="C#" />
-  <img src="Unity_Icon.png" width="30" height="30" alt="Unity" />
-  <img src="Maya_Icon.png" width="30" height="30" alt="Maya" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" />
-</p>
 
+### SOFT SKILLS
+* Teamwork
+* Learning and Adaptability
+* Critical Thinking
+* Time Management
+* Personal Success
+* Presentation
 
 # MY GAMES
 ### 🧙‍♂️ [WILLOW THE LITTLE WITCH](https://hisguitar.itch.io/willow) (Solo Dev)
