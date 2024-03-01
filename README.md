@@ -39,7 +39,7 @@ Cum GPA: 3.11
 * Personal Success
 * Presentation
 
-# Project Experience
+# PROJECT EXPERIENCE
 ## 🧙‍♂️ [Willow The Little Witch](https://hisguitar.itch.io/willow) (Solo Dev)
 * 2D Side-scrolling action game.
 * Highlight of work is **Clever Enemy, Lighting Setup, Sound Manager System, Scene Manager System**
