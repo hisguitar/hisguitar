@@ -96,4 +96,5 @@ The project was to sculpt any weapon, so I chose something I wasn't very familia
 
 ### War Spaceship
 The project was to sculpt any vehicle + animation of it, So I chose the most dynamic thing to animate, a warship, because I thought the shooting and movement would be more dynamic than the other vehicles.
+
 ![War Spaceship](WarSpaceship.png)
