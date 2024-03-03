@@ -81,7 +81,7 @@ Cum GPA: 3.11
 </a>
 
 # EXPERIENCE IN 3D MODELING
-### Bed Room
+### Bedroom
 This is a project I worked on during my 2nd year at Bangkok University. The project was to create any room that I wanted, so I chose to sculpt my bedroom. I meticulously measured almost everything in it. It was quite challenging, but also very fun! 😄
 
 ![Bed Room Image 1](BedRoom_1.jpg)
@@ -95,6 +95,6 @@ The project was to sculpt any weapon, so I chose something I wasn't very familia
 ![P90](P90.png)
 
 ### War Spaceship
-The project was to sculpt any vehicle + animation of it, So I chose the most dynamic thing to animate, a warship, because I thought the shooting and movement would be more dynamic than the other vehicles.
+The project was to sculpt any vehicle + animation of it, So I chose the most dynamic thing to animate, a war spaceship, because I thought the shooting and movement would be more dynamic than the other vehicles.
 
 ![War Spaceship](WarSpaceship.png)
