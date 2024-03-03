@@ -46,6 +46,7 @@ Cum GPA: 3.11
 * This is my first game developed using C# and Unity Engine.
 * You can [download it from Itch.io](https://hisguitar.itch.io/willow) and unzip the files or play it directly on the website.  
   (Downloading is recommended for the best gaming experience.)
+* [You can view my GDD here](https://github.com/hisguitar/willow)
 <p align="left">
   <kbd>
     <a href="https://hisguitar.itch.io/willow" target="_blank" rel="noreferrer">
