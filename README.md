@@ -47,24 +47,27 @@ Cum GPA: 3.11
 * You can [download it from Itch.io](https://hisguitar.itch.io/willow) and unzip the files or play it directly on the website.  
   (Downloading is recommended for the best gaming experience.)
 * [You can view my GDD here](https://github.com/hisguitar/willow)
-
-![Willow The Little Witch](Willow_Cover.png)
+<a href="https://hisguitar.itch.io/willow">
+  <img src="Willow_Cover.png" alt="Willow The Little Witch" title="Willow The Little Witch">
+</a>
 
 ## 🌟 [Portal Strike](https://hisguitar.itch.io/portal-strike) (Mobile Game)
 * 3D rogue-like, run & gun game.
 * Highlight of work is **Ability Selection Cards, Random Card, Portal Skills, RPG Stats & Stats Upgrade, Procedural Map Generation**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
 * You can [download it from Itch.io](https://hisguitar.itch.io/portal-strike) and unzip the files.
-
-![Portal Strike](PortalStrike_Cover.png)
+<a href="https://hisguitar.itch.io/portal-strike">
+  <img src="PortalStrike_Cover.png" alt="Portal Strike" title="Portal Strike">
+</a>
 
 ## 🎃 [Forest Quest](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
 * 3D VR horror single-player game.
 * Highlight of work is **Implementation of triggered dialogs based on different locations, Activation of ghost events, Implementation of various behavioral patterns for triggered ghosts**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
 * Gameplay videos can be [viewed on YouTube](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc).
-
-![Forest Quest](ForestQuest_Cover.jpg)
+<a href="https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc">
+  <img src="ForestQuest_Cover.jpg" alt="Forest Quest" title="Forest Quest">
+</a>
 
 ## ⚔ [Silly Battle](https://qiqitaro.itch.io/silly-battle) (Global Game Jam 2024)
 * 2D action versus, local co-op game.
@@ -73,7 +76,6 @@ Cum GPA: 3.11
 * This game was created by DUCK 4U group at [GGJ2024 (Site Rangsit)](https://globalgamejam.org/jam-sites/2024/rangsit-university) under the theme “Make me laugh”.
 * [Our game ranked](https://web.facebook.com/ThaiGameJam/videos/393072943374390/) 2nd with 16 votes.
 * You can [download it from Itch.io](https://qiqitaro.itch.io/silly-battle) and unzip the files or play it directly on the website.
-
 <a href="https://qiqitaro.itch.io/silly-battle">
   <img src="SillyBattle_Cover.png" alt="Silly Battle" title="Silly Battle (Global Game Jam 2024)">
 </a>
