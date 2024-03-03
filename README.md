@@ -95,3 +95,12 @@ Cum GPA: 3.11
     </a>
   </kbd>
 </p>
+
+# EXPERIENCE IN 3D MODELING
+### Bed Room
+<div style="display:flex; flex-direction:row;">
+    <img src="BedRoom_1.jpg" alt="Bed Room Image 1" style="width:33.33%;">
+    <img src="BedRoom_2.jpg" alt="Bed Room Image 2" style="width:33.33%;">
+    <img src="BedRoom_3.jpg" alt="Bed Room Image 3" style="width:33.33%;">
+</div>
+
