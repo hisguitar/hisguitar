@@ -98,9 +98,8 @@ Cum GPA: 3.11
 
 # EXPERIENCE IN 3D MODELING
 ### Bed Room
-<div style="display:flex; flex-direction:row;">
-    <img src="BedRoom_1.jpg" alt="Bed Room Image 1" style="width:33.33%;">
-    <img src="BedRoom_2.jpg" alt="Bed Room Image 2" style="width:33.33%;">
-    <img src="BedRoom_3.jpg" alt="Bed Room Image 3" style="width:33.33%;">
-</div>
+This is a project I worked on during my 2nd year at Bangkok University. The assignment was to create any room that I wanted, so I chose to sculpt my bedroom. I meticulously measured almost everything in it. It was quite challenging, but also very fun! 😄
 
+![Bed Room Image 1](BedRoom_1.jpg)
+![Bed Room Image 2](BedRoom_2.jpg)
+![Bed Room Image 3](BedRoom_3.jpg)
