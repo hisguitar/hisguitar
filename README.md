@@ -50,7 +50,7 @@ Cum GPA: 3.11
 <p align="left">
   <kbd>
     <a href="https://hisguitar.itch.io/willow" target="_blank" rel="noreferrer">
-      <img src="Willow_Cover.png" width="960" height="540" alt="Willow The Little Witch" />
+      <img src="Willow_Cover.png" width="820.26" height="461.39" alt="Willow The Little Witch" />
     </a>
   </kbd>
 </p>
@@ -63,7 +63,7 @@ Cum GPA: 3.11
 <p align="left">
   <kbd>
     <a href="https://hisguitar.itch.io/portal-strike" target="_blank" rel="noreferrer">
-      <img src="PortalStrike_Cover.png" width="960" height="540" alt="Portal Strike" />
+      <img src="PortalStrike_Cover.png" width="820.26" height="461.39" alt="Portal Strike" />
     </a>
   </kbd>
 </p>
@@ -76,7 +76,7 @@ Cum GPA: 3.11
 <p align="left">
   <kbd>
     <a href="https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc" target="_blank" rel="noreferrer">
-      <img src="ForestQuest_Cover.jpg" width="960" height="540" alt="Forest Quest" />
+      <img src="ForestQuest_Cover.jpg" width="820.26" height="461.39" alt="Forest Quest" />
     </a>
   </kbd>
 </p>
@@ -91,7 +91,7 @@ Cum GPA: 3.11
 <p align="left">
   <kbd>
     <a href="https://qiqitaro.itch.io/silly-battle" target="_blank" rel="noreferrer">
-      <img src="SillyBattle_Cover.png" width="960" height="540" alt="Silly Battle" />
+      <img src="SillyBattle_Cover.png" width="820.26" height="461.39" alt="Silly Battle" />
     </a>
   </kbd>
 </p>
