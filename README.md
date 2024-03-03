@@ -39,13 +39,14 @@ Cum GPA: 3.11
 * Personal Success
 * Presentation
 
-# MY GAMES
-### 🧙‍♂️ [WILLOW THE LITTLE WITCH](https://hisguitar.itch.io/willow) (Solo Dev)
+# PROJECT EXPERIENCE
+## 🧙‍♂️ [Willow The Little Witch](https://hisguitar.itch.io/willow) (Solo Dev)
 * 2D Side-scrolling action game.
 * Highlight of work is **Clever Enemy, Lighting Setup, Sound Manager System, Scene Manager System**
 * This is my first game developed using C# and Unity Engine.
 * You can [download it from Itch.io](https://hisguitar.itch.io/willow) and unzip the files or play it directly on the website.  
   (Downloading is recommended for the best gaming experience.)
+* [You can view my GDD here](https://github.com/hisguitar/willow)
 <p align="left">
   <kbd>
     <a href="https://hisguitar.itch.io/willow" target="_blank" rel="noreferrer">
@@ -54,7 +55,7 @@ Cum GPA: 3.11
   </kbd>
 </p>
 
-### 🌟 [PORTAL STRIKE](https://hisguitar.itch.io/portal-strike) (Mobile Game)
+## 🌟 [Portal Strike](https://hisguitar.itch.io/portal-strike) (Mobile Game)
 * 3D rogue-like, run & gun game.
 * Highlight of work is **Ability Selection Cards, Random Card, Portal Skills, RPG Stats & Stats Upgrade, Procedural Map Generation**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
@@ -67,7 +68,7 @@ Cum GPA: 3.11
   </kbd>
 </p>
 
-### 🎃 [FOREST QUEST](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
+## 🎃 [Forest Quest](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
 * 3D VR horror single-player game.
 * Highlight of work is **Implementation of triggered dialogs based on different locations, Activation of ghost events, Implementation of various behavioral patterns for triggered ghosts**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
@@ -80,12 +81,12 @@ Cum GPA: 3.11
   </kbd>
 </p>
 
-### ⚔ [SILLY BATTLE](https://qiqitaro.itch.io/silly-battle) (Global Game Jam 2024)
+## ⚔ [Silly Battle](https://qiqitaro.itch.io/silly-battle) (Global Game Jam 2024)
 * 2D action versus, local co-op game.
 * Highlight of work is **Slot Machine, Random Items, Local co-op, Faction changing system**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
 * This game was created by DUCK 4U group at [GGJ2024 (Site Rangsit)](https://globalgamejam.org/jam-sites/2024/rangsit-university) under the theme “Make me laugh”.
-* [Our game ranked](https://web.facebook.com/ThaiGameJam/videos/393072943374390/) second with 16 votes.
+* [Our game ranked](https://web.facebook.com/ThaiGameJam/videos/393072943374390/) 2nd with 16 votes.
 * You can [download it from Itch.io](https://qiqitaro.itch.io/silly-battle) and unzip the files or play it directly on the website.
 <p align="left">
   <kbd>
