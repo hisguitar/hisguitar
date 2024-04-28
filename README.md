@@ -40,7 +40,7 @@ Cum GPA: 3.11
 * Presentation
 
 # PROJECT EXPERIENCE
-## 🧙‍♂️ [Ethera](https://hisguitar.itch.io/ethera) (Multiplayer)
+## 🧙‍♂️ [Ethera](https://hisguitar.itch.io/ethera) (Multiplayer Game)
 * 2D top-down multiplayer game.
 * Highlight of work is **It's multiplayer game, You can customize characters and name them, You can fight both monsters and other players, You can hide behind a tree**
 * You can [download it from Itch.io](https://hisguitar.itch.io/ethera) and unzip the files or play it directly on the website.  
