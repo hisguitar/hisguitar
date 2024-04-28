@@ -40,6 +40,14 @@ Cum GPA: 3.11
 * Presentation
 
 # PROJECT EXPERIENCE
+## 🧙‍♂️ [Ethera](https://hisguitar.itch.io/ethera) (Multiplayer)
+* 2D top-down multiplayer game.
+* Highlight of work is **It's multiplayer game, You can customize characters and name them, You can fight both monsters and other players, You can hide behind a tree**
+* You can [download it from Itch.io](https://hisguitar.itch.io/ethera) and unzip the files or play it directly on the website.  
+<a href="https://hisguitar.itch.io/ethera">
+  <img src="Ethera_Cover.png" alt="Ethera" title="Ethera">
+</a>
+
 ## 🧙‍♂️ [Willow The Little Witch](https://hisguitar.itch.io/willow) (Solo Dev)
 * 2D Side-scrolling action game.
 * Highlight of work is **Clever Enemy, Lighting Setup, Sound Manager System, Scene Manager System**
