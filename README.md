@@ -12,7 +12,7 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 **[Bangkok University](https://www.bu.ac.th/th) | August 2021 - December 2024**  
 School of Information Technology and Innovation  
 Games and Interactive Media  
-Cum GPA: 3.69
+Cum GPA: 3.70
 
 **[Hatyairatprachasun School](http://www.hatyairat.ac.th/) | May 2018 - April 2021**  
 English and Math  
