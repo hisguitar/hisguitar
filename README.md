@@ -39,7 +39,7 @@ Cum GPA: 3.11
 * Personal Success
 * Presentation
 
-### Internship as Unity Developer at WolvEden
+### Internship as unity developer at WolvEden Production
 ![WolvEden Internship](WolvEden_Internship.png)
 
 # PROJECT EXPERIENCE
