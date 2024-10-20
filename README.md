@@ -40,7 +40,7 @@ Cum GPA: 3.11
 * Presentation
 
 ## Internship as Unity Developer at WolvEden
-![WolvEden Internship](BedRoom_1.jpg)
+![WolvEden Internship](WolvEden_Internship.png)
 
 # PROJECT EXPERIENCE
 ## 🧙‍♂️ [Ethera](https://hisguitar.itch.io/ethera) (Multiplayer Game)
