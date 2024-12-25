@@ -40,8 +40,10 @@ Cum GPA: 3.11
 * Presentation
 
 ### INTERNSHIP EXPERIENCE
-* Unity developer at WolvEden Production
-<img src="WolvEden_Internship.png" alt="WolvEden Internship" width="75%">
+* Certificate Unity Developer at WolvEden Production
+<img src="WolvEden_Internship.png" alt="WolvEden Internship" width="100%">
+* Game poster artwork
+<img src="QuartzCore_Cover.jpg" alt="Quartz Core Poster" width="100%">
 
 # PROJECT EXPERIENCE
 ## 🧙‍♂️ [Ethera](https://hisguitar.itch.io/ethera) (Multiplayer Game)
