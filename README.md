@@ -47,16 +47,16 @@ Cum GPA: 3.11
 
 # PROJECT EXPERIENCE
 ## 🧙‍♂️ [Ethera](https://hisguitar.itch.io/ethera) (Multiplayer Game)
-* 2D top-down multiplayer game.
-* Highlight of work is **It's multiplayer game, You can customize characters and name them, You can fight both monsters and other players, You can hide behind a tree**
+* 2D top-down multiplayer RPG developed with friends.
+* Key contributions is **Implemented multiplayer mode and chat system, Designed and create character customization features, Developed combat mechanics for both PvE and PvP**
 * You can [download it from Itch.io](https://hisguitar.itch.io/ethera) and unzip the files or play it directly on the website.  
 <a href="https://hisguitar.itch.io/ethera">
   <img src="Ethera_Cover.png" alt="Ethera" title="Ethera">
 </a>
 
 ## 🧙‍♂️ [Willow The Little Witch](https://hisguitar.itch.io/willow) (Solo Dev)
-* 2D Side-scrolling action game.
-* Highlight of work is **Clever Enemy, Lighting Setup, Sound Manager System, Scene Manager System**
+* 2D Side-Scrolling Action Game.
+* Key contributions is **Designed enemy AI, Set up lighting and sound systems, Sound Manager System, Managed scene transitions**
 * This is my first game developed using C# and Unity Engine.
 * You can [download it from Itch.io](https://hisguitar.itch.io/willow) and unzip the files or play it directly on the website.  
   (Downloading is recommended for the best gaming experience.)
@@ -66,8 +66,8 @@ Cum GPA: 3.11
 </a>
 
 ## 🌟 [Portal Strike](https://hisguitar.itch.io/portal-strike) (Mobile Game)
-* 3D rogue-like, run & gun game.
-* Highlight of work is **Ability Selection Cards, Random Card, Portal Skills, RPG Stats & Stats Upgrade, Procedural Map Generation**
+* 3D Rogue-like, run & gun game.
+* Key contributions is **Implemented ability selection cards and random card system, Designed portal skill (Dash, Decoy), Developed RPG stats and upgrade system, Procedural Map Generation**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
 * You can [download it from Itch.io](https://hisguitar.itch.io/portal-strike) and unzip the files.
 <a href="https://hisguitar.itch.io/portal-strike">
@@ -76,7 +76,7 @@ Cum GPA: 3.11
 
 ## 🎃 [Forest Quest](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
 * 3D VR horror single-player game.
-* Highlight of work is **Implementation of triggered dialogs based on different locations, Activation of ghost events, Implementation of various behavioral patterns for triggered ghosts**
+* Key contributions is **Implemented location-based triggered dialogs, Design and create ghost event activations, Developed behavioral patterns for triggered ghosts**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
 * Gameplay videos can be [viewed on YouTube](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc).
 <a href="https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc">
@@ -85,7 +85,7 @@ Cum GPA: 3.11
 
 ## ⚔ [Silly Battle](https://qiqitaro.itch.io/silly-battle) (Global Game Jam 2024)
 * 2D action versus, local co-op game.
-* Highlight of work is **Slot Machine, Random Items, Local co-op, Faction changing system**
+* Key contributions is **Designed a slot machine for random weapon selection, Implemented local co-op gameplay, Developed diverse weapon with unique abilities**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
 * This game was created by DUCK 4U group at [GGJ2024 (Site Rangsit)](https://globalgamejam.org/jam-sites/2024/rangsit-university) under the theme “Make me laugh”.
 * [Our game ranked](https://web.facebook.com/ThaiGameJam/videos/393072943374390/) 2nd with 16 votes.
