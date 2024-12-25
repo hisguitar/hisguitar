@@ -41,8 +41,8 @@ Cum GPA: 3.11
 
 ### INTERNSHIP EXPERIENCE
 * Certificate Unity Developer at WolvEden Production
+* Game Poster Artwork
 <img src="WolvEden_Internship.png" alt="WolvEden Internship" width="50%">
-Game poster artwork
 <img src="QuartzCore_Cover.jpg" alt="Quartz Core Poster" width="100%">
 
 # PROJECT EXPERIENCE
