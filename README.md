@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Guitar
+# Hi there! I'm Guitar
 ### INDIE GAME DEVELOPER | UNITY | C# 
 
 Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a passionate indie game developer currently studying at Bangkok University. My dream is to create immersive MMORPGs where players can find their second home.
@@ -7,6 +7,8 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 * 🚀 Currently showcasing my work on [Itch.io](https://hisguitar.itch.io/)
 * 🧠 Constantly honing my skills in Unity, C#, UI Design, and 3D Modeling
 * 🤝 Open to collaborations on MMORPG projects
+
+---
 
 ### EDUCATION
 **[Bangkok University](https://www.bu.ac.th/th) | August 2021 - December 2024**  
@@ -18,35 +20,52 @@ Cum GPA: 3.70
 English and Math  
 Cum GPA: 3.11
 
-### HARD SKILLS
-* Proficient in Adobe Photoshop
-* Proficient in Adobe Premiere Pro
-* Intermediate in Adobe Illustrator
-* Intermediate in Adobe After Effects
-* Intermediate in C#
-* Intermediate in Unity
-* Intermediate in GitHub
-* Intermediate in Maya
-* Intermediate in Substance Painter
-* Intermediate in Firebase
-* Intermediate in Figma
+---
 
-### SOFT SKILLS
-* Teamwork
-* Learning and Adaptability
-* Critical Thinking
-* Time Management
-* Personal Success
-* Presentation
+## 💻 HARD SKILLS
+
+**Programming & Game Dev**  
+- Unity (2D, 3D, VR, Mobile)  
+- C#  
+- Multiplayer Networking (Photon, Netcode)  
+- Game AI (Behavior Control, Triggers, Events)  
+- Procedural Generation  
+- UX/UI Design  
+- Git & GitHub  
+- Firebase  
+
+**Art & Design**  
+- Adobe Photoshop, Illustrator, Premiere Pro, After Effects  
+- Autodesk Maya  
+- Substance Painter  
+- Figma  
+
+**Other Tools**  
+- Shader Graph  
+- Unity Timeline & Cinemachine  
+- Trello & Agile Workflow  
+
+---
+
+## 🌱 SOFT SKILLS
+- Critical Thinking & Problem Solving  
+- Fast Learner & Self-Motivated  
+- Communication & Team Collaboration  
+- Time Management & Prioritization  
+- Creative Presentation Skills  
+
+---
 
 # 🏅 CERTIFICATES
 <p align="left">
-  <img src="WolvEden_Internship.png" width="250" />
-  <img src="design-a-space-explorer.png" width="505" />
+  <img src="WolvEden_Internship.png" width="330" />
+  <img src="design-a-space-explorer.png" width="665" />
 </p>
 
-# EXPERIENCE IN GAME DEVELOPMENT
-## 🧙‍♂️ [Ethera](https://hisguitar.itch.io/ethera) (Multiplayer Game)
+---
+
+## EXPERIENCE IN GAME DEVELOPMENT
+## 🧙‍♂️ Ethera (Multiplayer Game)
 * 2D top-down multiplayer RPG developed with friends.
 * Key contributions is **Implemented multiplayer mode and chat system, Designed and create character customization features, Developed combat mechanics for both PvE and PvP**
 * You can [download it from Itch.io](https://hisguitar.itch.io/ethera) and unzip the files or play it directly on the website.  
@@ -54,7 +73,7 @@ Cum GPA: 3.11
   <img src="Ethera_Cover.png" alt="Ethera" title="Ethera">
 </a>
 
-## 🧙‍♂️ [Willow The Little Witch](https://hisguitar.itch.io/willow) (Solo Dev)
+## 🧙‍♂️ Willow The Little Witch (My first project)
 * 2D Side-Scrolling Action Game.
 * Key contributions is **Designed enemy AI, Set up lighting and sound systems, Sound Manager System, Managed scene transitions**
 * This is my first game developed using C# and Unity Engine.
@@ -65,7 +84,7 @@ Cum GPA: 3.11
   <img src="Willow_Cover.png" alt="Willow The Little Witch" title="Willow The Little Witch">
 </a>
 
-## 🌟 [Portal Strike](https://hisguitar.itch.io/portal-strike) (Mobile Game)
+## 🌟 Portal Strike (Mobile Game)
 * 3D Rogue-like, run & gun game.
 * Key contributions is **Implemented ability selection cards and random card system, Designed portal skill (Dash, Decoy), Developed RPG stats and upgrade system, Procedural Map Generation**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
@@ -74,7 +93,7 @@ Cum GPA: 3.11
   <img src="PortalStrike_Cover.png" alt="Portal Strike" title="Portal Strike">
 </a>
 
-## 🎃 [Forest Quest](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc) (VR Game)
+## 🎃 Forest Quest (VR Game)
 * 3D VR horror single-player game.
 * Key contributions is **Implemented location-based triggered dialogs, Design and create ghost event activations, Developed behavioral patterns for triggered ghosts**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
@@ -83,7 +102,7 @@ Cum GPA: 3.11
   <img src="ForestQuest_Cover.jpg" alt="Forest Quest" title="Forest Quest">
 </a>
 
-## ⚔ [Silly Battle](https://qiqitaro.itch.io/silly-battle) (Global Game Jam 2024)
+## ⚔ Silly Battle (Global Game Jam 2024)
 * 2D action versus, local co-op game.
 * Key contributions is **Designed a slot machine for random weapon selection, Implemented local co-op gameplay, Developed diverse weapon with unique abilities**
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
@@ -94,11 +113,15 @@ Cum GPA: 3.11
   <img src="SillyBattle_Cover.png" alt="Silly Battle" title="Silly Battle (Global Game Jam 2024)">
 </a>
 
+---
+
 # EXPERIENCE IN GRAPHIC DESIGNER & PHOTO EDITOR
 ## Game Cover: Quartz Core
 This is the game cover that I photographed and edited by myself. It's from a game project I developed during my 3-month internship at Wolveden Production as a Unity Developer.
 
 ![Quartz Core Cover](QuartzCore_Cover.png)
+
+---
 
 # EXPERIENCE IN 3D MODELING
 ## Bedroom
