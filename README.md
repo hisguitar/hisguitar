@@ -40,10 +40,9 @@ Cum GPA: 3.11
 * Presentation
 
 # 🏅 CERTIFICATES
-<p align="center">
+<p align="left">
   <img src="WolvEden_Internship.png" width="250" />
-  <img src="WolvEden_Internship.png" width="250" />
-  <img src="WolvEden_Internship.png" width="250" />
+  <img src="design-a-space-explorer.png" width="505" />
 </p>
 
 # EXPERIENCE IN GAME DEVELOPMENT
