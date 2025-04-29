@@ -39,6 +39,13 @@ Cum GPA: 3.11
 * Personal Success
 * Presentation
 
+## 🏅 Certificates
+<p align="center">
+  <img src="WolvEden_Internship.png" width="250" />
+  <img src="WolvEden_Internship.png" width="250" />
+  <img src="WolvEden_Internship.png" width="250" />
+</p>
+
 ### INTERNSHIP EXPERIENCE
 * Certificate Unity Developer at [WolvEden Production](https://web.facebook.com/WolvEdenProduction/)
 * Game Poster Artwork
