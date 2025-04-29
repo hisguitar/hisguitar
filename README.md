@@ -41,10 +41,22 @@ Cum GPA: 3.11
 
 ## 🏅 Certificates
 <p align="center">
-  <img src="WolvEden_Internship.png" width="250" />
-  <img src="WolvEden_Internship.png" width="250" />
-  <img src="WolvEden_Internship.png" width="250" />
+  <figure style="display:inline-block; margin:10px">
+    <img src="WolvEden_Internship.png" width="200"/>
+    <figcaption align="center"><sub>Full Stack Web Dev</sub></figcaption>
+  </figure>
+  
+  <figure style="display:inline-block; margin:10px">
+    <img src="WolvEden_Internship.png" width="200"/>
+    <figcaption align="center"><sub>Python for Data Science</sub></figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px">
+    <img src="WolvEden_Internship.png" width="200"/>
+    <figcaption align="center"><sub>Unity Game Development</sub></figcaption>
+  </figure>
 </p>
+
 
 ### INTERNSHIP EXPERIENCE
 * Certificate Unity Developer at [WolvEden Production](https://web.facebook.com/WolvEdenProduction/)
