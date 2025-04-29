@@ -39,13 +39,14 @@ Cum GPA: 3.11
 * Personal Success
 * Presentation
 
-### INTERNSHIP EXPERIENCE
-* Certificate Unity Developer at [WolvEden Production](https://web.facebook.com/WolvEdenProduction/)
-* Game Poster Artwork
-<img src="WolvEden_Internship.png" alt="WolvEden Internship" width="50%">
-<img src="QuartzCore_Cover.png" alt="Quartz Core Poster" width="100%">
+# 🏅 CERTIFICATES
+<p align="center">
+  <img src="WolvEden_Internship.png" width="250" />
+  <img src="WolvEden_Internship.png" width="250" />
+  <img src="WolvEden_Internship.png" width="250" />
+</p>
 
-# PROJECT EXPERIENCE
+# EXPERIENCE IN GAME DEVELOPMENT
 ## 🧙‍♂️ [Ethera](https://hisguitar.itch.io/ethera) (Multiplayer Game)
 * 2D top-down multiplayer RPG developed with friends.
 * Key contributions is **Implemented multiplayer mode and chat system, Designed and create character customization features, Developed combat mechanics for both PvE and PvP**
@@ -93,6 +94,12 @@ Cum GPA: 3.11
 <a href="https://qiqitaro.itch.io/silly-battle">
   <img src="SillyBattle_Cover.png" alt="Silly Battle" title="Silly Battle (Global Game Jam 2024)">
 </a>
+
+# EXPERIENCE IN GRAPHIC DESIGNER & PHOTO EDITOR
+## Game Cover: Quartz Core
+This is the game cover that I photographed and edited by myself. It's from a game project I developed during my 3-month internship at Wolveden Production as a Unity Developer.
+
+![Quartz Core Cover](QuartzCore_Cover.png)
 
 # EXPERIENCE IN 3D MODELING
 ## Bedroom
