@@ -117,9 +117,20 @@ Cum GPA: 3.11
 
 # EXPERIENCE IN GRAPHIC DESIGNER & PHOTO EDITOR
 ## Game Cover: Quartz Core
-This is the game cover that I photographed and edited by myself. It's from a game project I developed during my 3-month internship at Wolveden Production as a Unity Developer.
+This game cover was both photographed and edited by me as part of a project I developed during my 3-month internship at Wolveden Production, where I worked as a Unity Developer. The design reflects the game's core concept and visual identity.
 
 ![Quartz Core Cover](QuartzCore_Cover.png)
+
+## Logo & Car Wrap Design: Slide-Car
+This is a logo and custom car wrap pattern I designed while working as a graphic designer. The project required combining branding elements with real-world application on a vehicle, blending visual appeal with functionality.
+
+![Logo and Pattern Design](TongSoonTowing.png)
+
+## Benz E63 AMG – Comic Style Illustration
+As part of my graphic design work, I transformed a photo of a Benz E63 AMG into a comic-style illustration. This piece showcases my ability to merge realistic imagery with stylized digital effects for creative visual storytelling.
+
+![Benz-E63 AMG in Comic Style](BenzE63AMG.jpg)
+
 
 ---
 
