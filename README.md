@@ -55,10 +55,10 @@ Cum GPA: 3.11
 - Creative Presentation Skills  
 
 ---
-
 # 🏅 CERTIFICATES
 <p align="left">
   <img src="WolvEden_Internship.png" width="300"/>
+  <img src="Transcript-1.png" width="300"/>
   <img src="design-a-space-explorer.png" width="605"/>
 </p>
 
