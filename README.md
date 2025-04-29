@@ -57,9 +57,9 @@ Cum GPA: 3.11
 ---
 # 🏅 CERTIFICATES
 <p align="left">
-  <img src="WolvEden_Internship.png" style="width: 40%; max-width: 800px;"/>
-  <img src="Transcript-1.png" style="width: 40%; max-width: 800px;"/>
-  <img src="design-a-space-explorer.png" style="width: 80%; max-width: 800px;"/>
+  <img src="WolvEden_Internship.png" style="width: 405px;"/>
+  <img src="Transcript-1.png" style="width: 400px"/>
+  <img src="design-a-space-explorer.png" style="width: 810px;"/>
 </p>
 
 ---
