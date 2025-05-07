@@ -136,6 +136,8 @@ The project was to sculpt any weapon, so I chose something I wasn't very familia
 [P90 gun model, displayed in a 360 degree view](https://www.youtube.com/watch?v=DN2iyGtyXkE)
 
 ![P90](P90.png)
+![P90-1](P90-1.png)
+![P90-2](P90-2.png)
 
 ## [War Spaceship](https://hisguitar.itch.io/warspaceship)
 The project was to sculpt any vehicle + animation of it, So I chose the most dynamic thing to animate, a war spaceship, because I thought the shooting and movement would be more dynamic than the other vehicles.
