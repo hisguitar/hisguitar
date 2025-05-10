@@ -59,6 +59,7 @@ Cum GPA: 3.11
 <p align="left">
   <img src="WolvEden_Internship.png" style="width: 405px;"/>
   <img src="Transcript-1.png" style="width: 400px"/>
+  <img src="Certificate-Python for beginners.png" style="width: 810px;"/>
   <img src="design-a-space-explorer.png" style="width: 810px;"/>
 </p>
 
