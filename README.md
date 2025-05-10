@@ -156,5 +156,5 @@ The project was to sculpt any vehicle + animation of it, So I chose the most dyn
 You can find [more details about this project on Itch.io](https://hisguitar.itch.io/warspaceship), and you can support me there as well.
 
 <a href="https://hisguitar.itch.io/warspaceship">
-  <img src="WarSpaceship.png" alt="War Spaceship" title="War Spaceship">
+  <img src="Showcase of works/WarSpaceship.png" alt="War Spaceship" title="War Spaceship">
 </a>
