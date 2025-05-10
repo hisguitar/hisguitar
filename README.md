@@ -58,7 +58,7 @@ Cum GPA: 3.11
 # 🏅 CERTIFICATES
 <p align="left">
   <img src="Certificates/WolvEden_Internship.png" style="width: 405px;"/>
-  <img src="Certificates/Transcript-1.png" style="width: 400px"/>
+  <img src="Certificates/Transcript.png" style="width: 400px"/>
   <img src="Certificates/design-a-space-explorer.png" style="width: 810px;"/>
   <img src="Certificates/GGJ2024-highlight.png" style="width: 810px;"/>
 </p>
@@ -71,7 +71,7 @@ Cum GPA: 3.11
 * Key contributions is **Implemented multiplayer mode and chat system, Designed and create character customization features, Developed combat mechanics for both PvE and PvP**
 * You can [download it from Itch.io](https://hisguitar.itch.io/ethera) and unzip the files or play it directly on the website.  
 <a href="https://hisguitar.itch.io/ethera">
-  <img src="Ethera_Cover.png" alt="Ethera" title="Ethera">
+  <img src="Showcase of works/Ethera_Cover.png" alt="Ethera" title="Ethera">
 </a>
 
 ## 🧙‍♂️ Willow The Little Witch (My first project)
@@ -82,7 +82,7 @@ Cum GPA: 3.11
   (Downloading is recommended for the best gaming experience.)
 * [You can view my GDD here](https://github.com/hisguitar/willow)
 <a href="https://hisguitar.itch.io/willow">
-  <img src="Willow_Cover.png" alt="Willow The Little Witch" title="Willow The Little Witch">
+  <img src="Showcase of works/Willow_Cover.png" alt="Willow The Little Witch" title="Willow The Little Witch">
 </a>
 
 ## 🌟 Portal Strike (Mobile Game)
@@ -91,7 +91,7 @@ Cum GPA: 3.11
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
 * You can [download it from Itch.io](https://hisguitar.itch.io/portal-strike) and unzip the files.
 <a href="https://hisguitar.itch.io/portal-strike">
-  <img src="PortalStrike_Cover.png" alt="Portal Strike" title="Portal Strike">
+  <img src="Showcase of works/PortalStrike_Cover.png" alt="Portal Strike" title="Portal Strike">
 </a>
 
 ## 🎃 Forest Quest (VR Game)
@@ -100,7 +100,7 @@ Cum GPA: 3.11
 * This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
 * Gameplay videos can be [viewed on YouTube](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc).
 <a href="https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc">
-  <img src="ForestQuest_Cover.jpg" alt="Forest Quest" title="Forest Quest">
+  <img src="Showcase of works/ForestQuest_Cover.jpg" alt="Forest Quest" title="Forest Quest">
 </a>
 
 ## ⚔ Silly Battle (Global Game Jam 2024)
@@ -111,7 +111,7 @@ Cum GPA: 3.11
 * [Our game ranked](https://web.facebook.com/ThaiGameJam/videos/393072943374390/) 2nd with 16 votes.
 * You can [download it from Itch.io](https://qiqitaro.itch.io/silly-battle) and unzip the files or play it directly on the website.
 <a href="https://qiqitaro.itch.io/silly-battle">
-  <img src="SillyBattle_Cover.png" alt="Silly Battle" title="Silly Battle (Global Game Jam 2024)">
+  <img src="Showcase of works/SillyBattle_Cover.png" alt="Silly Battle" title="Silly Battle (Global Game Jam 2024)">
 </a>
 
 ---
@@ -120,17 +120,17 @@ Cum GPA: 3.11
 ## Game Cover: Quartz Core
 This game cover was both photographed and edited by me as part of a project I developed during my 3-month internship at Wolveden Production, where I worked as a Unity Developer. The design reflects the game's core concept and visual identity.
 
-![Quartz Core Cover](QuartzCore_Cover.png)
+![Quartz Core Cover](Showcase of works/QuartzCore_Cover.png)
 
 ## Logo & Car Wrap Design: Slide-Car
 This is a logo and custom car wrap pattern I designed while working as a graphic designer. The project required combining branding elements with real-world application on a vehicle, blending visual appeal with functionality.
 
-![Logo and Pattern Design](TongSoonTowing.png)
+![Logo and Pattern Design](Showcase of works/TongSoonTowing.png)
 
 ## Benz E63 AMG – Comic Style Illustration
 As part of my graphic design work, I transformed a photo of a Benz E63 AMG into a comic-style illustration. This piece showcases my ability to merge realistic imagery with stylized digital effects for creative visual storytelling.
 
-![Benz-E63 AMG in Comic Style](BenzE63AMG.jpg)
+![Benz-E63 AMG in Comic Style](Showcase of works/BenzE63AMG.jpg)
 
 
 ---
@@ -139,17 +139,17 @@ As part of my graphic design work, I transformed a photo of a Benz E63 AMG into 
 ## Bedroom
 This is a project I worked on during my 2nd year at Bangkok University. The project was to create any room that I wanted, so I chose to sculpt my bedroom. I meticulously measured almost everything in it. It was quite challenging, but also very fun! 😄
 
-![Bed Room Image 1](BedRoom_1.jpg)
-![Bed Room Image 2](BedRoom_2.jpg)
-![Bed Room Image 3](BedRoom_3.jpg)
+![Bed Room Image 1](Showcase of works/BedRoom_1.jpg)
+![Bed Room Image 2](Showcase of works/BedRoom_2.jpg)
+![Bed Room Image 3](Showcase of works/BedRoom_3.jpg)
 
 ## P90 Gun
 The project was to sculpt any weapon, so I chose something I wasn't very familiar with: a gun. I thought it might be a good opportunity to learn about design, as I typically play a lot of RPG games and rarely touch FPS games.
 [P90 gun model, displayed in a 360 degree view](https://www.youtube.com/watch?v=DN2iyGtyXkE)
 
-![P90](P90.png)
-![P90-1](P90-1.png)
-![P90-2](P90-2.png)
+![P90](Showcase of works/P90.png)
+![P90-1](Showcase of works/P90-1.png)
+![P90-2](Showcase of works/P90-2.png)
 
 ## [War Spaceship](https://hisguitar.itch.io/warspaceship)
 The project was to sculpt any vehicle + animation of it, So I chose the most dynamic thing to animate, a war spaceship, because I thought the shooting and movement would be more dynamic than the other vehicles.
