@@ -120,17 +120,17 @@ Cum GPA: 3.11
 ## Game Cover: Quartz Core
 This game cover was both photographed and edited by me as part of a project I developed during my 3-month internship at Wolveden Production, where I worked as a Unity Developer. The design reflects the game's core concept and visual identity.
 
-![Quartz Core Cover](Showcase of works/QuartzCore_Cover.png)
+![Quartz Core Cover](Showcase%20of%20works/QuartzCore_Cover.png)
 
 ## Logo & Car Wrap Design: Slide-Car
 This is a logo and custom car wrap pattern I designed while working as a graphic designer. The project required combining branding elements with real-world application on a vehicle, blending visual appeal with functionality.
 
-![Logo and Pattern Design](Showcase of works/TongSoonTowing.png)
+![Logo and Pattern Design](Showcase%20of%20works/TongSoonTowing.png)
 
 ## Benz E63 AMG – Comic Style Illustration
 As part of my graphic design work, I transformed a photo of a Benz E63 AMG into a comic-style illustration. This piece showcases my ability to merge realistic imagery with stylized digital effects for creative visual storytelling.
 
-![Benz-E63 AMG in Comic Style](Showcase of works/BenzE63AMG.jpg)
+![Benz-E63 AMG in Comic Style](Showcase%20of%20works/BenzE63AMG.jpg)
 
 
 ---
@@ -139,17 +139,17 @@ As part of my graphic design work, I transformed a photo of a Benz E63 AMG into 
 ## Bedroom
 This is a project I worked on during my 2nd year at Bangkok University. The project was to create any room that I wanted, so I chose to sculpt my bedroom. I meticulously measured almost everything in it. It was quite challenging, but also very fun! 😄
 
-![Bed Room Image 1](Showcase of works/BedRoom_1.jpg)
-![Bed Room Image 2](Showcase of works/BedRoom_2.jpg)
-![Bed Room Image 3](Showcase of works/BedRoom_3.jpg)
+![Bed Room Image 1](Showcase%20of%20works/BedRoom_1.jpg)
+![Bed Room Image 2](Showcase%20of%20works/BedRoom_2.jpg)
+![Bed Room Image 3](Showcase%20of%20works/BedRoom_3.jpg)
 
 ## P90 Gun
 The project was to sculpt any weapon, so I chose something I wasn't very familiar with: a gun. I thought it might be a good opportunity to learn about design, as I typically play a lot of RPG games and rarely touch FPS games.
 [P90 gun model, displayed in a 360 degree view](https://www.youtube.com/watch?v=DN2iyGtyXkE)
 
 ![P90](Showcase of works/P90.png)
-![P90-1](Showcase of works/P90-1.png)
-![P90-2](Showcase of works/P90-2.png)
+![P90-1](Showcase%20of%20works/P90-1.png)
+![P90-2](Showcase%20of%20works/P90-2.png)
 
 ## [War Spaceship](https://hisguitar.itch.io/warspaceship)
 The project was to sculpt any vehicle + animation of it, So I chose the most dynamic thing to animate, a war spaceship, because I thought the shooting and movement would be more dynamic than the other vehicles.
