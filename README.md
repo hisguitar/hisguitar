@@ -151,6 +151,12 @@ The project was to sculpt any weapon, so I chose something I wasn't very familia
 ![P90-1](Showcase%20of%20works/P90-1.png)
 ![P90-2](Showcase%20of%20works/P90-2.png)
 
+## Shelf
+
+![Shelf-1](Showcase%20of%20works/Shelf1.png)
+![Shelf-2](Showcase%20of%20works/Shelf2.png)
+![Shelf-3](Showcase%20of%20works/Shelf3.png)
+
 ## [War Spaceship](https://hisguitar.itch.io/warspaceship)
 The project was to sculpt any vehicle + animation of it, So I chose the most dynamic thing to animate, a war spaceship, because I thought the shooting and movement would be more dynamic than the other vehicles.
 You can find [more details about this project on Itch.io](https://hisguitar.itch.io/warspaceship), and you can support me there as well.
