@@ -147,7 +147,7 @@ This is a project I worked on during my 2nd year at Bangkok University. The proj
 The project was to sculpt any weapon, so I chose something I wasn't very familiar with: a gun. I thought it might be a good opportunity to learn about design, as I typically play a lot of RPG games and rarely touch FPS games.
 [P90 gun model, displayed in a 360 degree view](https://www.youtube.com/watch?v=DN2iyGtyXkE)
 
-![P90](Showcase%20of%20works/V-P90.png)
+![P90](Showcase%20of%20works/V2-P90.png)
 ![P90-1](Showcase%20of%20works/V2-P90-1.png)
 ![P90-2](Showcase%20of%20works/V2-P90-2.png)
 
