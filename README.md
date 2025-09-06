@@ -175,7 +175,10 @@ You can find [more details about this project on Itch.io](https://hisguitar.itch
 </a>
 
 ## Shelf
-
 ![Shelf-1](Showcase%20of%20works/Shelf1.png)
 ![Shelf-2](Showcase%20of%20works/Shelf2.png)
 ![Shelf-3](Showcase%20of%20works/Shelf3.png)
+
+## Dumbbell
+![Dumbbell-1](Showcase%20of%20works/Dumbbell1.png)
+![Dumbbell-2](Showcase%20of%20works/Dumbbell2.png)
