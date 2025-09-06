@@ -14,11 +14,26 @@ Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a pa
 **[Bangkok University](https://www.bu.ac.th/th) | August 2021 - December 2024**  
 School of Information Technology and Innovation  
 Games and Interactive Media  
-Cum GPA: 3.71 (First-class)
+Cum GPA: 3.71 (First-class) 🏅
 
 **[Hatyairatprachasun School](http://www.hatyairat.ac.th/) | May 2018 - April 2021**  
 English and Math  
 Cum GPA: 3.11
+
+---
+
+### WORK EXPERIENCE
+**[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista | July 2025 - Current**  
+Work on customer service, beverage preparation, product expiry checking, store opening/closing, and completing other assigned task-list duties.
+
+**[ArtSticker Design](https://www.facebook.com/ArtStickerDesign) | Graphic Designer | March 2025 - April 2025**  
+Work on car stickers and graphic design, logo design and photo editing using Illustrator and Photoshop.
+
+**Innotel Corporation Co. Ltd. | Kitchen Assistant | September 2024 - November 2024**  
+Work on cooking and preparation of food.
+
+**[WolvEden Production Co. Ltd.](https://www.facebook.com/WolvEdenProduction) | Unity Developer | May 2024 - August 2024**  
+Gained knowledge in Game Development using C-Sharp, Unity Engine, studied SOLID design principle  and learned about attributes, state pattern etc.
 
 ---
 
