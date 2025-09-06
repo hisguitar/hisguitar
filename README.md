@@ -24,7 +24,7 @@ Cum GPA: 3.11
 
 ### WORK EXPERIENCE
 **[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista | July 2025 - Current**  
-Work on car stickers and graphic design, logo design and photo editing using Illustrator and Photoshop.
+Work on customer service, beverage preparation, product expiry checking, store opening/closing, and completing other assigned task-list duties.
 
 **[ArtSticker Design](https://www.facebook.com/ArtStickerDesign) | Graphic Designer | March 2025 - April 2025**  
 Work on car stickers and graphic design, logo design and photo editing using Illustrator and Photoshop.
