@@ -22,6 +22,21 @@ Cum GPA: 3.11
 
 ---
 
+### WORK EXPERIENCE
+**Starbucks | July 2025 - Current**  
+Work on car stickers and graphic design, logo design and photo editing using Illustrator and Photoshop.
+
+**ArtSticker Design | March 2025 - April 2025**  
+Work on car stickers and graphic design, logo design and photo editing using Illustrator and Photoshop.
+
+**Innotel Corporation Co. Ltd. | September 2024 - November 2024**  
+Work on cooking and preparation of food.
+
+**WolvEden Production Co. Ltd. | May 2024 - August 2024**  
+Gained knowledge in Game Development using C-Sharp, Unity Engine, studied SOLID design principle  and learned about attributes, state pattern etc.
+
+---
+
 ## 💻 HARD SKILLS
 
 **Programming & Game Dev**  
