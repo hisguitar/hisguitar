@@ -174,11 +174,12 @@ You can find [more details about this project on Itch.io](https://hisguitar.itch
   <img src="Showcase of works/WarSpaceship.png" alt="War Spaceship" title="War Spaceship">
 </a>
 
-## Shelf
+## Living room shelves.
 ![Shelf-1](Showcase%20of%20works/Shelf1.png)
 ![Shelf-2](Showcase%20of%20works/Shelf2.png)
 ![Shelf-3](Showcase%20of%20works/Shelf3.png)
 
-## Dumbbell
+## 15kg. Dumbbells
+Reference: https://s.shopee.co.th/3AvbpY8hfc
 ![Dumbbell-1](Showcase%20of%20works/Dumbbell1.png)
 ![Dumbbell-2](Showcase%20of%20works/Dumbbell2.png)
