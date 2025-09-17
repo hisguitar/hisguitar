@@ -24,50 +24,84 @@ Cum GPA: 3.11
 
 ### WORK EXPERIENCE
 **[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista | July 2025 - Current**  
-Work on customer service, beverage preparation, product expiry checking, store opening/closing, and completing other assigned task-list duties.
+Responsibilities:
+- ⭐️ Provide customer service with a positive and professional attitude.
+- ⭐️ Prepare beverages and recommend seasonal or promotional drinks and snacks following company standards.
+- ⭐️ Suggest pastries and inform customers about ongoing promotions to drive sales.
+- ⭐️ Communicate weekly updates on Starbucks coffee beans to customers.
+- ⭐️ Check product expiry dates and manage stock levels to ensure freshness and availability.
+- ⭐️ Refill items at the front store as needed.
+- ⭐️ Handle product receiving and transferring between branches.
+- ⭐️ Perform store opening and closing duties.
+- ⭐️ Complete assigned task-list responsibilities efficiently.
+- ⭐️ Achieve daily sales targets set by the company.
+- ⭐️ Maintain store cleanliness and organization according to company standards.
 
 **[ArtSticker Design](https://www.facebook.com/ArtStickerDesign) | Graphic Designer | March 2025 - April 2025**  
-Work on car stickers and graphic design, logo design and photo editing using Illustrator and Photoshop.
+Responsibilities:
+- ⭐️ Communicate with customers to understand their requirements and provide design solutions.
+- ⭐️ Design car stickers, car wraps, front car decals, banners, and promotional materials.
+- ⭐️ Create logos for shops and businesses.
+- ⭐️ Coordinate with teammates to ensure accurate measurements before design and cutting.
+- ⭐️ Operate and manage the sticker cutting machine, from preparation to cutting.
+- ⭐️ Prepare stickers and protective films for installation teams to use efficiently.
+- ⭐️ Edit photos and enhance images using Illustrator and Photoshop.
+- ⭐️ Photograph and edit customer cars after sticker/film installation for promotional use.
+- ⭐️ Post daily works and updates on the company’s Facebook page for marketing purposes.
 
 **Innotel Corporation Co. Ltd. | Kitchen Assistant | September 2024 - November 2024**  
-Work on cooking and preparation of food.
+Responsibilities:
+- ⭐️ Prepare ingredients for daily food preparation.
+- ⭐️ Cook and assemble dishes, then deliver them to the conveyor belt.
+- ⭐️ Purchase supplies for the restaurant and issue tax invoices.
+- ⭐️ Guide and train new staff to ensure smooth onboarding.
 
 **[WolvEden Production Co. Ltd.](https://www.facebook.com/WolvEdenProduction) | Unity Developer | May 2024 - August 2024**  
-Gained knowledge in Game Development using C-Sharp, Unity Engine, studied SOLID design principle  and learned about attributes, state pattern etc.
+Responsibilities / Achievements:
+- ⭐️ Gained knowledge in game development using C# and Unity Engine, including SOLID design principles, attributes, and state patterns.
+- ⭐️ Wrote Game Design Documents (GDDs) to guide game development and planned task allocation with team members to ensure efficient workflow.
+- ⭐️ Designed and programmed Enemy AI, including parent enemies controlling child enemies such as spider-type enemies that can walk on walls and ceilings.
+- ⭐️ Developed a Combo System for players to create engaging and satisfying combat experiences.
+- ⭐️ Implemented Graphic and Sound Settings systems, allowing players to adjust screen resolution and audio levels (master, music, and effects) to optimize performance.
+- ⭐️ Created item drops from enemies that restore player HP when collected.
+- ⭐️ Built maps with NavMesh to enable intelligent patrol and chase behaviors for AI agents.
+- ⭐️ Modeled in-game items, such as pathogen models, to communicate game themes subtly to players.
+- ⭐️ Set daily goals and reported progress to team members to maintain project alignment.
+- ⭐️ Participated in company mini game jams, developing small multiplayer cooperative games within a 7-day timeframe.
 
 ---
 
 ## 💻 HARD SKILLS
 
 **Programming & Game Dev**  
-- Unity (2D, 3D, VR, Mobile)  
-- C#  
-- Multiplayer Networking (Photon, Netcode)  
-- Game AI (Behavior Control, Triggers, Events)  
-- Procedural Generation  
-- UX/UI Design  
-- Git & GitHub  
-- Firebase  
+- ⭐️ Unity (2D, 3D, VR, Mobile)  
+- ⭐️ C#  
+- ⭐️ Multiplayer Networking (Photon, Netcode)  
+- ⭐️ Game AI (Behavior Control, Triggers, Events)  
+- ⭐️ Procedural Generation  
+- ⭐️ UX/UI Design  
+- ⭐️ Git & GitHub  
+- ⭐️ Firebase  
 
 **Art & Design**  
-- Adobe Photoshop, Illustrator, Premiere Pro, After Effects  
-- Autodesk Maya  
-- Substance Painter  
-- Figma  
+- ⭐️ Adobe Photoshop, Illustrator, Premiere Pro, After Effects  
+- ⭐️ Autodesk Maya  
+- ⭐️ Substance Painter  
+- ⭐ Figma  
 
 **Other Tools**  
-- Shader Graph  
-- Unity Timeline & Cinemachine  
-- Trello & Agile Workflow  
+- ⭐️ Shader Graph  
+- ⭐️ Unity Timeline & Cinemachine  
+- ⭐️ Trello & Agile Workflow  
 
 ---
 
 ## 🌱 SOFT SKILLS
-- Critical Thinking & Problem Solving  
-- Fast Learner & Self-Motivated  
-- Communication & Team Collaboration  
-- Time Management & Prioritization  
-- Creative Presentation Skills  
+- ⭐️ Critical Thinking & Problem Solving  
+- ⭐️ Fast Learner & Self-Motivated  
+- ⭐️ Communication & Team Collaboration  
+- ⭐️ Time Management & Prioritization  
+- ⭐️ Creative Presentation Skills  
 
 ---
 # 🏅 CERTIFICATES
