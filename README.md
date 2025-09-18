@@ -25,17 +25,10 @@ Cum GPA: 3.11
 ### WORK EXPERIENCE
 **[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista | July 2025 - Current**  
 Responsibilities:
-- ⭐️ Provide customer service with a positive and professional attitude.
-- ⭐️ Prepare beverages and recommend seasonal or promotional drinks and snacks following company standards.
-- ⭐️ Suggest pastries and inform customers about ongoing promotions to drive sales.
-- ⭐️ Communicate weekly updates on Starbucks coffee beans to customers.
-- ⭐️ Check product expiry dates and manage stock levels to ensure freshness and availability.
-- ⭐️ Refill items at the front store as needed.
-- ⭐️ Handle product receiving and transferring between branches.
-- ⭐️ Perform store opening and closing duties.
-- ⭐️ Complete assigned task-list responsibilities efficiently.
-- ⭐️ Achieve daily sales targets set by the company.
-- ⭐️ Maintain store cleanliness and organization according to company standards.
+- ⭐️ Customer Service & Sales: Provide professional customer service with a positive attitude, recommend seasonal drinks and pastries, communicate promotions and product updates, and consistently achieve daily sales targets.
+- ⭐️ Beverage & Product Management: Prepare beverages according to company standards, manage stock levels, check expiry dates, and ensure product freshness and availability.
+- ⭐️ Store Operations: Perform store opening and closing duties, handle receiving and transferring products between branches, and refill front-store items as needed.
+- ⭐️ Cleanliness & Standards: Maintain store cleanliness, organization, and complete task-list responsibilities efficiently in line with company standards.
 
 **[ArtSticker Design](https://www.facebook.com/ArtStickerDesign) | Graphic Designer | March 2025 - April 2025**  
 Responsibilities:
