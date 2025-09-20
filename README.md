@@ -51,16 +51,12 @@ Responsibilities:
 
 **[WolvEden Production Co. Ltd.](https://www.facebook.com/WolvEdenProduction) | Unity Developer | May 2024 - August 2024**  
 Responsibilities / Achievements:
-- ⭐️ Gained knowledge in game development using C# and Unity Engine, including SOLID design principles, attributes, and state patterns.
-- ⭐️ Wrote Game Design Documents (GDDs) to guide game development and planned task allocation with team members to ensure efficient workflow.
-- ⭐️ Designed and programmed Enemy AI, including parent enemies controlling child enemies such as spider-type enemies that can walk on walls and ceilings.
-- ⭐️ Developed a Combo System for players to create engaging and satisfying combat experiences.
-- ⭐️ Implemented Graphic and Sound Settings systems, allowing players to adjust screen resolution and audio levels (master, music, and effects) to optimize performance.
-- ⭐️ Created item drops from enemies that restore player HP when collected.
-- ⭐️ Built maps with NavMesh to enable intelligent patrol and chase behaviors for AI agents.
-- ⭐️ Modeled in-game items, such as pathogen models, to communicate game themes subtly to players.
-- ⭐️ Set daily goals and reported progress to team members to maintain project alignment.
-- ⭐️ Participated in company mini game jams, developing small multiplayer cooperative games within a 7-day timeframe.
+- ⭐️ Gained knowledge in game development using C# and Unity Engine, applying SOLID principles, attributes, and state patterns.
+- ⭐️ Designed and programmed core gameplay systems including Combo System, Enemy AI (with parent-child hierarchy and wall-climbing spiders), item drops, and settings (graphics/audio).
+- ⭐️ Built maps with NavMesh for intelligent AI patrol and chase behaviors.
+- ⭐️ Contributed to game art and design by creating Game Design Documents (GDDs) and modeling thematic in-game items.
+- ⭐️ Collaborated in teams by planning tasks, setting daily goals, and reporting progress to maintain alignment.
+- ⭐️ Participated in company game jams, creating multiplayer cooperative games within a 7-day timeframe.
 
 ---
 
