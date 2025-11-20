@@ -23,7 +23,7 @@ Cum GPA: 3.11
 ---
 
 ### WORK EXPERIENCE
-**[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista | July 2025 - Current**  
+**[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista | July 2025 - November 2025**  
 Responsibilities:
 - ⭐️ Customer Service & Sales: Provide professional customer service with a positive attitude, recommend seasonal drinks and pastries, communicate promotions and product updates, and consistently achieve daily sales targets.
 - ⭐️ Beverage & Product Management: Prepare beverages according to company standards, manage stock levels, check expiry dates, and ensure product freshness and availability.
