@@ -82,113 +82,60 @@ Responsibilities / Achievements:
 <p align="left">
   <img src="Certificates/WolvEden_Internship.png" style="width: 405px;"/>
   <img src="Certificates/Transcript.png" style="width: 400px"/>
-  <img src="Certificates/Certificate-Python for beginners.png" style="width: 810px;"/>
   <img src="Certificates/GGJ2024-highlight.png" style="width: 810px;"/>
 </p>
 
 ---
 
-### EXPERIENCE IN GAME DEVELOPMENT
+### 🎮 GAME DEVELOPMENT EXPERIENCE
 ### 🧙‍♂️ Ethera (Multiplayer Game)
-* 2D top-down multiplayer RPG developed with friends.
-* Key contributions is **Implemented multiplayer mode and chat system, Designed and create character customization features, Developed combat mechanics for both PvE and PvP**
-* You can [download it from Itch.io](https://hisguitar.itch.io/ethera) and unzip the files or play it directly on the website.  
+* 2D top-down multiplayer RPG.
+* Key contributions: Implemented multiplayer networking and real-time chat system; developed PvE/PvP combat mechanics; designed and implemented character customization.
+* [Play or download on Itch.io](https://hisguitar.itch.io/ethera)
 <a href="https://hisguitar.itch.io/ethera">
   <img src="Showcase of works/Ethera_Cover.png" alt="Ethera" title="Ethera">
 </a>
 
-### 🧙‍♂️ Willow The Little Witch (My first project)
-* 2D Side-Scrolling Action Game.
-* Key contributions is **Designed enemy AI, Set up lighting and sound systems, Sound Manager System, Managed scene transitions**
-* This is my first game developed using C# and Unity Engine.
-* You can [download it from Itch.io](https://hisguitar.itch.io/willow) and unzip the files or play it directly on the website.  
-  (Downloading is recommended for the best gaming experience.)
-* [You can view my GDD here](https://github.com/hisguitar/willow)
+### 🧙‍♂️ Willow The Little Witch (First Project)
+* 2D side-scrolling action game.
+* Key contributions: Designed enemy AI; implemented lighting and audio systems; developed a custom sound manager; managed scene transitions.
+* Developed using C# and Unity Engine.
+* [Itch.io](https://hisguitar.itch.io/willow) | [GDD & Source Code](https://github.com/hisguitar/willow)
 <a href="https://hisguitar.itch.io/willow">
   <img src="Showcase of works/Willow_Cover.png" alt="Willow The Little Witch" title="Willow The Little Witch">
 </a>
 
 ### 🌟 Portal Strike (Mobile Game)
-* 3D Rogue-like, run & gun game.
-* Key contributions is **Implemented ability selection cards and random card system, Designed portal skill (Dash, Decoy), Developed RPG stats and upgrade system, Procedural Map Generation**
-* This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
-* You can [download it from Itch.io](https://hisguitar.itch.io/portal-strike) and unzip the files.
+* 3D roguelike run-and-gun mobile game.
+* Key contributions: Implemented randomized ability card selection system; developed RPG stats and upgrade systems; designed portal-based skills; implemented procedural map generation.
+* Collaborative project with [qiqitaro](https://github.com/cheqii) and [loneguss](https://github.com/loneguss)
+* [Download on Itch.io](https://hisguitar.itch.io/portal-strike)
 <a href="https://hisguitar.itch.io/portal-strike">
   <img src="Showcase of works/PortalStrike_Cover.png" alt="Portal Strike" title="Portal Strike">
 </a>
 
 ### 🎃 Forest Quest (VR Game)
 * 3D VR horror single-player game.
-* Key contributions is **Implemented location-based triggered dialogs, Design and create ghost event activations, Developed behavioral patterns for triggered ghosts**
-* This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
-* Gameplay videos can be [viewed on YouTube](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc).
+* Key contributions: Implemented trigger-based dialogue system; designed and developed ghost event activations; created behavior patterns for ghost encounters.
+* Collaborative project with [qiqitaro](https://github.com/cheqii) and [loneguss](https://github.com/loneguss)
+* [Watch gameplay on YouTube](https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc).
 <a href="https://youtu.be/P7xZljkSM3Q?si=lK7ubU4eHmOwwfuc">
   <img src="Showcase of works/ForestQuest_Cover.jpg" alt="Forest Quest" title="Forest Quest">
 </a>
 
 ### ⚔ Silly Battle (Global Game Jam 2024)
-* 2D action versus, local co-op game.
-* Key contributions is **Designed a slot machine for random weapon selection, Implemented local co-op gameplay, Developed diverse weapon with unique abilities**
-* This is a collaborative project with two teammates. [qiqitaro](https://github.com/cheqii) & [loneguss](https://github.com/loneguss)
-* This game was created by DUCK 4U group at [GGJ2024 (Site Rangsit)](https://globalgamejam.org/jam-sites/2024/rangsit-university) under the theme “Make me laugh”.
-* [Our game ranked](https://web.facebook.com/ThaiGameJam/videos/393072943374390/) 2nd with 16 votes.
-* You can [download it from Itch.io](https://qiqitaro.itch.io/silly-battle) and unzip the files or play it directly on the website.
+* 2D local co-op action versus game.
+* Key contributions: Designed a random weapon slot-machine system; implemented local co-op gameplay; developed multiple weapons with unique abilities.
+* 🏆 Ranked 2nd place at Global Game Jam 2024 (Rangsit University).
+* Collaborative project with [qiqitaro](https://github.com/cheqii) and [loneguss](https://github.com/loneguss)
+* [Play or download on Itch.io](https://qiqitaro.itch.io/silly-battle)
 <a href="https://qiqitaro.itch.io/silly-battle">
   <img src="Showcase of works/SillyBattle_Cover.png" alt="Silly Battle" title="Silly Battle (Global Game Jam 2024)">
 </a>
 
----
-
-### EXPERIENCE IN GRAPHIC DESIGN
-### Game Cover: Quartz Core
-This game cover was both photographed and edited by me as part of a project I developed during my 3-month internship at Wolveden Production, where I worked as a Unity Developer. The design reflects the game's core concept and visual identity.
+### Quartz Core (Internship Project)
+* 3D action roguelik game.
+* Developed core gameplay systems during a 3-month internship, focusing on intelligent enemy AI, combat mechanics, and system balancing.
+* Implemented player-tracking AI with wall-climbing multi-surface navigation, a combat combo system, graphics and audio settings, and performed player–enemy balance tuning with appropriate visual and sound effects.
 
 ![Quartz Core Cover](Showcase%20of%20works/QuartzCore_Cover.png)
-
-### Logo & Car Wrap Design: Slide-Car
-This is a logo and custom car wrap pattern I designed while working as a graphic designer. The project required combining branding elements with real-world application on a vehicle, blending visual appeal with functionality.
-
-![Logo and Pattern Design](Showcase%20of%20works/TongSoonTowing.png)
-
-### Benz E63 AMG – Comic Style Illustration
-As part of my graphic design work, I transformed a photo of a Benz E63 AMG into a comic-style illustration. This piece showcases my ability to merge realistic imagery with stylized digital effects for creative visual storytelling.
-
-![Benz-E63 AMG in Comic Style](Showcase%20of%20works/BenzE63AMG.jpg)
-
-
----
-
-### EXPERIENCE IN 3D MODELING
-### Bedroom
-This is a project I worked on during my 2nd year at Bangkok University. The project was to create any room that I wanted, so I chose to sculpt my bedroom. I meticulously measured almost everything in it. It was quite challenging, but also very fun! 😄
-
-![Bed Room Image 1](Showcase%20of%20works/BedRoom_1.jpg)
-![Bed Room Image 2](Showcase%20of%20works/BedRoom_2.jpg)
-![Bed Room Image 3](Showcase%20of%20works/BedRoom_3.jpg)
-
-### P90 Gun
-The project was to sculpt any weapon, so I chose something I wasn't very familiar with: a gun. I thought it might be a good opportunity to learn about design, as I typically play a lot of RPG games and rarely touch FPS games.
-[P90 gun model, displayed in a 360 degree view](https://www.youtube.com/watch?v=DN2iyGtyXkE)
-
-![P90](Showcase%20of%20works/V2-P90.png)
-![P90-1](Showcase%20of%20works/V2-P90-1.png)
-![P90-2](Showcase%20of%20works/V2-P90-2.png)
-
-### [War Spaceship](https://hisguitar.itch.io/warspaceship)
-The project was to sculpt any vehicle + animation of it, So I chose the most dynamic thing to animate, a war spaceship, because I thought the shooting and movement would be more dynamic than the other vehicles.
-You can find [more details about this project on Itch.io](https://hisguitar.itch.io/warspaceship), and you can support me there as well.
-
-<a href="https://hisguitar.itch.io/warspaceship">
-  <img src="Showcase of works/WarSpaceship.png" alt="War Spaceship" title="War Spaceship">
-</a>
-
-### Living room shelves.
-![Shelf-1](Showcase%20of%20works/Shelf1.png)
-![Shelf-2](Showcase%20of%20works/Shelf2.png)
-![Shelf-3](Showcase%20of%20works/Shelf3.png)
-
-### 15kg. Dumbbells
-Reference: https://s.shopee.co.th/3AvbpY8hfc
-
-![Dumbbell-1](Showcase%20of%20works/Dumbbell1.png)
-![Dumbbell-2](Showcase%20of%20works/Dumbbell2.png)
