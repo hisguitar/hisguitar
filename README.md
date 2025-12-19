@@ -1,15 +1,13 @@
 # Hi there! I'm Guitar
-### INDIE GAME DEVELOPER | UNITY | C# 
+### GAME DEVELOPER | UNITY | C# | IT-ORIENTED
 
-Welcome to my profile! I'm **Wachsirin Sarayutpisai** aka **hisguitar** I'm a passionate indie game developer currently studying at Bangkok University. My dream is to create immersive MMORPGs where players can find their second home.
+Hi! I'm Wachsirin Sarayutpisai (hisguitar), a software-focused developer with a strong background in Unity, C#, and system logic. Graduated from Bangkok University, I enjoy solving technical problems, building reliable systems, and creating user-focused digital solutions.
 * 🌍 Based in Thailand
 * ✉️ Contact me at [wachsirin.sara@gmail.com](mailto:wachsirin.sara@gmail.com)
-* 🚀 Currently showcasing my work on [Itch.io](https://hisguitar.itch.io/)
-* 🧠 Constantly honing my skills in Unity, C#, UI Design, and 3D Modeling
-* 🤝 Open to collaborations on MMORPG projects
+* 🧠 Skilled in system logic, debugging, troubleshooting, Unity, C#, and UI design
+* 🚀 Showcasing projects on [Itch.io](https://hisguitar.itch.io/)
 
 ---
-
 ### EDUCATION
 **[Bangkok University](https://www.bu.ac.th/th) | August 2021 - December 2024**  
 School of Information Technology and Innovation  
@@ -21,76 +19,63 @@ English and Math
 Cum GPA: 3.11
 
 ---
-
 ### WORK EXPERIENCE
 **[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista | July 2025 - November 2025**  
 Responsibilities:
-- ⭐️ Customer Service & Sales: Provide professional customer service with a positive attitude, recommend seasonal drinks and pastries, communicate promotions and product updates, and consistently achieve daily sales targets.
-- ⭐️ Beverage & Product Management: Prepare beverages according to company standards, manage stock levels, check expiry dates, and ensure product freshness and availability.
-- ⭐️ Store Operations: Perform store opening and closing duties, handle receiving and transferring products between branches, and refill front-store items as needed.
-- ⭐️ Cleanliness & Standards: Maintain store cleanliness, organization, and complete task-list responsibilities efficiently in line with company standards.
+- Delivered high-quality customer service in a fast-paced environment while consistently meeting daily sales targets.
+- Communicated product information and promotions clearly to customers.
+- Managed inventory, checked expiry dates, and ensured product quality.
+- Handled store opening/closing procedures and maintained operational standards.
 
 **[ArtSticker Design](https://www.facebook.com/ArtStickerDesign) | Graphic Designer | March 2025 - April 2025**  
 Responsibilities:
-- ⭐️ Communicate with customers to understand their requirements and provide design solutions.
-- ⭐️ Design car stickers, car wraps, front car decals, banners, and promotional materials.
-- ⭐️ Create logos for shops and businesses.
-- ⭐️ Coordinate with teammates to ensure accurate measurements before design and cutting.
-- ⭐️ Operate and manage the sticker cutting machine, from preparation to cutting.
-- ⭐️ Prepare stickers and protective films for installation teams to use efficiently.
-- ⭐️ Edit photos and enhance images using Illustrator and Photoshop.
-- ⭐️ Photograph and edit customer cars after sticker/film installation for promotional use.
-- ⭐️ Post daily works and updates on the company’s Facebook page for marketing purposes.
+- Designed car stickers, wraps, banners, and promotional materials based on client requirements.
+- Created logos and visual identities for small businesses.
+- Edited and enhanced images using Photoshop and Illustrator.
+- Operated sticker cutting machines and coordinated with installation teams.
+- Produced photo and social media content for company marketing.
 
-**Innotel Corporation Co. Ltd. | Kitchen Assistant | September 2024 - November 2024**  
+**[AKIBA NIKU アキバ](https://www.facebook.com/akibaniku/) Innotel Corporation Co. Ltd. | Kitchen Assistant | September 2024 - November 2024**  
 Responsibilities:
-- ⭐️ Prepare ingredients for daily food preparation.
-- ⭐️ Cook and assemble dishes, then deliver them to the conveyor belt.
-- ⭐️ Purchase supplies for the restaurant and issue tax invoices.
-- ⭐️ Guide and train new staff to ensure smooth onboarding.
+- Prepared ingredients and assembled dishes efficiently under time constraints.
+- Assisted with inventory purchasing and tax invoice documentation.
+- Trained new staff to ensure smooth workflow and consistency.
 
 **[WolvEden Production Co. Ltd.](https://www.facebook.com/WolvEdenProduction) | Unity Developer | May 2024 - August 2024**  
 Responsibilities / Achievements:
-- ⭐️ Gained knowledge in game development using C# and Unity Engine, applying SOLID principles, attributes, and state patterns.
-- ⭐️ Designed and programmed core gameplay systems including Combo System, Enemy AI (with parent-child hierarchy and wall-climbing spiders), item drops, and settings (graphics/audio).
-- ⭐️ Built maps with NavMesh for intelligent AI patrol and chase behaviors.
-- ⭐️ Contributed to game art and design by creating Game Design Documents (GDDs) and modeling thematic in-game items.
-- ⭐️ Collaborated in teams by planning tasks, setting daily goals, and reporting progress to maintain alignment.
-- ⭐️ Participated in company game jams, creating multiplayer cooperative games within a 7-day timeframe.
+- Developed gameplay systems in Unity (C#) using SOLID principles and state-based design.
+- Implemented enemy AI, combat systems, item drops, and settings (graphics/audio).
+- Built game levels with NavMesh for AI navigation and behavior.
+- Contributed to GDD creation, in-game asset modeling, and team-based planning.
+- Participated in rapid-development game jams, delivering multiplayer prototypes within 7 days.
 
 ---
+### 💻 HARD SKILLS
+**Software & System**  
+- C#  
+- System Logic & Debugging
+- Git & GitHub
+- Firebase
+- UX/UI Design  
 
-## 💻 HARD SKILLS
+**Software & System**  
+- Unity (2D, 3D, VR, Mobile)
+- Multiplayer Networking
+- Game AI
 
-**Programming & Game Dev**  
-- ⭐️ Unity (2D, 3D, VR, Mobile)  
-- ⭐️ C#  
-- ⭐️ Multiplayer Networking (Photon, Netcode)  
-- ⭐️ Game AI (Behavior Control, Triggers, Events)  
-- ⭐️ Procedural Generation  
-- ⭐️ UX/UI Design  
-- ⭐️ Git & GitHub  
-- ⭐️ Firebase  
-
-**Art & Design**  
-- ⭐️ Adobe Photoshop, Illustrator, Premiere Pro, After Effects  
-- ⭐️ Autodesk Maya  
-- ⭐️ Substance Painter  
-- ⭐ Figma  
-
-**Other Tools**  
-- ⭐️ Shader Graph  
-- ⭐️ Unity Timeline & Cinemachine  
-- ⭐️ Trello & Agile Workflow  
+**Design & Media**  
+- Proficient in Adobe Photoshop, Illustrator, Premiere Pro, and After Effects
+- Autodesk Maya  
+- Substance Painter  
+- Figma  
 
 ---
-
-## 🌱 SOFT SKILLS
-- ⭐️ Critical Thinking & Problem Solving  
-- ⭐️ Fast Learner & Self-Motivated  
-- ⭐️ Communication & Team Collaboration  
-- ⭐️ Time Management & Prioritization  
-- ⭐️ Creative Presentation Skills  
+### 🌱 SOFT SKILLS
+- Critical Thinking & Problem Solving  
+- Fast Learner & Self-Motivated  
+- Communication & Team Collaboration  
+- Time Management & Prioritization  
+- Creative Presentation Skills  
 
 ---
 # 🏅 CERTIFICATES
