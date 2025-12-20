@@ -133,7 +133,7 @@ Responsibilities / Achievements:
   <img src="Showcase of works/SillyBattle_Cover.png" alt="Silly Battle" title="Silly Battle (Global Game Jam 2024)">
 </a>
 
-### Quartz Core (Internship Project)
+### 🔫 Quartz Core (Internship Project)
 * 3D action roguelik game.
 * Developed core gameplay systems during a 3-month internship, focusing on intelligent enemy AI, combat mechanics, and system balancing.
 * Implemented player-tracking AI with wall-climbing multi-surface navigation, a combat combo system, graphics and audio settings, and performed player–enemy balance tuning with appropriate visual and sound effects.
