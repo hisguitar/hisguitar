@@ -1,7 +1,7 @@
 # Hi there! I'm Guitar
 ### GAME DEVELOPER | UNITY | C# | IT-ORIENTED
 
-Hi! I'm Wachsirin Sarayutpisai (hisguitar), a software-focused developer with a strong background in Unity, C#, and system logic. Graduated from Bangkok University, I enjoy solving technical problems, building reliable systems, and creating user-focused digital solutions.
+Hi! I'm Wachsirin Sarayutpisai (hisguitar), Developer with experience in Unity and C#, specializing in gameplay systems and system logic. Graduate of Bangkok University. Skilled in building reliable systems and implementing user-focused features.
 * 🌍 Based in Thailand
 * ✉️ Contact me at [wachsirin.sara@gmail.com](mailto:wachsirin.sara@gmail.com)
 * 🧠 Skilled in system logic, debugging, troubleshooting, Unity, C#, and UI design
