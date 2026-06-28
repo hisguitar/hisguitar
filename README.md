@@ -20,7 +20,7 @@ Cum GPA: 3.11
 
 ---
 ### WORK EXPERIENCE
-**[Tamdeekosana](https://www.facebook.com/profile.php?id=100075622075372) | Graphic Designer | May 2026 - Present**
+**[Tamdeekosana](https://www.facebook.com/profile.php?id=100075622075372) | Graphic Designer | May 2026 - Present**  
 Responsibilities:
 - Design graphics for stickers, light boxes, and vinyl banners.
 - Respond to customer inquiries, receive design briefs, present concepts, and close sales.
