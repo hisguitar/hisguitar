@@ -20,6 +20,9 @@ Cum GPA: 3.11
 
 ---
 ### WORK EXPERIENCE
+**[Tamdeekosana](https://www.facebook.com/profile.php?id=100075622075372) | Graphic Designer"
+Responsibilities:
+
 **[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista**  
 Responsibilities:
 - Delivered high-quality customer service in a fast-paced environment while consistently meeting daily sales targets.
