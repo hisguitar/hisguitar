@@ -20,7 +20,7 @@ Cum GPA: 3.11
 
 ---
 ### WORK EXPERIENCE
-**[Tamdeekosana](https://www.facebook.com/profile.php?id=100075622075372) | Graphic Designer"
+**[Tamdeekosana](https://www.facebook.com/profile.php?id=100075622075372) | Graphic Designer**
 Responsibilities:
 
 **[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista**  
