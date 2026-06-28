@@ -20,17 +20,21 @@ Cum GPA: 3.11
 
 ---
 ### WORK EXPERIENCE
-**[Tamdeekosana](https://www.facebook.com/profile.php?id=100075622075372) | Graphic Designer**
+**[Tamdeekosana](https://www.facebook.com/profile.php?id=100075622075372) | Graphic Designer | May 2026 - Present**
 Responsibilities:
+- Design graphics for stickers, light boxes, and vinyl banners.
+- Respond to customer inquiries, receive design briefs, present concepts, and close sales.
+- Record office expenses in the accounting software.
+- Maintain sticker printing/cutting equipment.
 
-**[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista**  
+**[Starbucks](https://www.facebook.com/StarbucksThailand) | Barista | July 2025 - November 2025**  
 Responsibilities:
 - Delivered high-quality customer service in a fast-paced environment while consistently meeting daily sales targets.
 - Communicated product information and promotions clearly to customers.
 - Managed inventory, checked expiry dates, and ensured product quality.
 - Handled store opening/closing procedures and maintained operational standards.
 
-**[ArtSticker Design](https://www.facebook.com/ArtStickerDesign) | Graphic Designer**  
+**[ArtSticker Design](https://www.facebook.com/ArtStickerDesign) | Graphic Designer | March 2025 - April 2025**  
 Responsibilities:
 - Designed car stickers, wraps, banners, and promotional materials based on client requirements.
 - Created logos and visual identities for small businesses.
@@ -38,13 +42,13 @@ Responsibilities:
 - Operated sticker cutting machines and coordinated with installation teams.
 - Produced photo and social media content for company marketing.
 
-**[AKIBA NIKU アキバ](https://www.facebook.com/akibaniku/) Innotel Corporation Co. Ltd. | Kitchen Assistant**  
+**[AKIBA NIKU アキバ](https://www.facebook.com/akibaniku/) Innotel Corporation Co. Ltd. | Kitchen Assistant | September 2024 - November 2024**  
 Responsibilities:
 - Prepared ingredients and assembled dishes efficiently under time constraints.
 - Assisted with inventory purchasing and tax invoice documentation.
 - Trained new staff to ensure smooth workflow and consistency.
 
-**[WolvEden Production Co. Ltd.](https://www.facebook.com/WolvEdenProduction) | Unity Developer**  
+**[WolvEden Production Co. Ltd.](https://www.facebook.com/WolvEdenProduction) | Unity Developer | Nay 2024 - August 2024**  
 Responsibilities / Achievements:
 - Developed gameplay systems in Unity (C#) using SOLID principles and state-based design.
 - Implemented enemy AI, combat systems, item drops, and settings (graphics/audio).
